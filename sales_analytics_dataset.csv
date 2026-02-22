@@ -1,0 +1,1201 @@
+OrderID,OrderDate,Region,City,Category,SubCategory,CustomerID,CustomerAge,Gender,Quantity,UnitPrice,Discount,Revenue,Profit,PaymentMode
+1,1/21/2023,West,Kolkata,Furniture,Bed,CUST1614,36,Female,4,960,0.06,3609.6,599.53,Cash
+2,5/30/2023,West,Bangalore,Electronics,Mobile,CUST1308,19,Male,3,3544,0.18,8718.24,1635.35,Card
+3,11/10/2023,East,Delhi,Clothing,Dress,CUST1021,42,Female,4,2533,0.05,9625.4,3320.56,Cash
+4,7/7/2023,West,Delhi,Electronics,TV,CUST1975,32,Female,1,574,0.18,470.68,168.57,Net Banking
+5,5/11/2023,West,Hyderabad,Clothing,Dress,CUST1484,24,Female,3,1999,0.15,5097.45,1133.04,Net Banking
+6,11/12/2023,West,Kolkata,Clothing,Shirt,CUST1013,26,Female,5,2988,0.02,14641.2,1688.63,UPI
+7,9/21/2023,West,Mumbai,Grocery,Snacks,CUST1942,52,Male,2,2712,0.07,5044.32,1652.99,Card
+8,2/23/2023,North,Hyderabad,Electronics,Laptop,CUST1105,21,Male,1,2055,0.05,1952.25,338.5,Cash
+9,7/21/2023,East,Bangalore,Grocery,Rice,CUST1957,53,Male,5,4898,0.25,18367.5,4868.74,Card
+10,8/25/2023,East,Chennai,Electronics,Mobile,CUST1337,41,Male,4,1116,0.29,3169.44,464.77,Cash
+11,6/6/2023,South,Mumbai,Grocery,Snacks,CUST1014,18,Male,2,4959,0.18,8132.76,2579.71,UPI
+12,3/4/2023,West,Mumbai,Clothing,Jeans,CUST1138,34,Female,1,2668,0.23,2054.36,699.27,UPI
+13,8/19/2023,North,Mumbai,Electronics,TV,CUST1040,45,Female,3,4614,0.23,10658.34,4026.58,UPI
+14,3/3/2023,South,Mumbai,Electronics,Laptop,CUST1727,54,Female,1,4975,0.1,4477.5,1705.63,Card
+15,8/15/2023,East,Bangalore,Clothing,Jacket,CUST1612,31,Male,3,2831,0.19,6879.33,920.7,Card
+16,12/25/2023,South,Bangalore,Electronics,Headphones,CUST1794,26,Male,3,3940,0.22,9219.6,3035.13,Cash
+17,8/29/2023,East,Delhi,Electronics,Headphones,CUST1563,49,Male,2,1584,0.06,2977.92,390.91,Card
+18,5/23/2023,East,Hyderabad,Electronics,Mobile,CUST1170,46,Female,4,1857,0.04,7130.88,1559.34,UPI
+19,6/19/2023,West,Delhi,Electronics,Headphones,CUST1556,23,Male,4,1822,0.21,5757.52,782.21,Net Banking
+20,5/8/2023,East,Hyderabad,Grocery,Oil,CUST1505,45,Male,4,3727,0.12,13119.04,1771.28,UPI
+21,10/10/2023,West,Mumbai,Clothing,Dress,CUST1957,30,Female,1,3402,0.27,2483.46,790.64,UPI
+22,5/17/2023,West,Kolkata,Clothing,Jacket,CUST1317,54,Female,1,1382,0,1382,341.04,Net Banking
+23,6/9/2023,North,Mumbai,Grocery,Rice,CUST1607,41,Male,1,4879,0.07,4537.47,1585.9,Net Banking
+24,2/21/2023,East,Hyderabad,Grocery,Rice,CUST1267,56,Female,1,3863,0.11,3438.07,372.91,UPI
+25,4/23/2023,South,Bangalore,Furniture,Chair,CUST1001,19,Female,2,1736,0.09,3159.52,1228.84,Card
+26,5/6/2023,North,Chennai,Furniture,Chair,CUST1129,43,Male,4,954,0.08,3510.72,447.69,Net Banking
+27,9/12/2023,South,Bangalore,Grocery,Rice,CUST1293,41,Female,4,3610,0.23,11118.8,3654.85,Cash
+28,8/28/2023,West,Chennai,Clothing,Dress,CUST1143,50,Female,5,3031,0.3,10608.5,2974.12,Net Banking
+29,9/16/2023,West,Chennai,Furniture,Bed,CUST1659,53,Female,1,1247,0.15,1059.95,202.72,Cash
+30,12/18/2023,South,Delhi,Grocery,Snacks,CUST1710,58,Male,3,1469,0.15,3745.95,1243.85,Cash
+31,5/9/2023,South,Kolkata,Electronics,Headphones,CUST1778,45,Female,1,2059,0.12,1811.92,215.58,UPI
+32,5/24/2023,North,Chennai,Furniture,Bed,CUST1345,19,Male,1,4161,0.21,3287.19,1089.49,Net Banking
+33,1/9/2023,East,Mumbai,Grocery,Snacks,CUST1232,52,Male,1,3823,0.17,3173.09,429.03,Net Banking
+34,4/30/2023,East,Delhi,Clothing,Dress,CUST1672,41,Male,3,2355,0.27,5157.45,690.45,Net Banking
+35,4/14/2023,East,Delhi,Electronics,Laptop,CUST1851,52,Female,4,4782,0.28,13772.16,2264.11,Card
+36,12/4/2023,West,Chennai,Grocery,Milk,CUST1705,52,Male,1,198,0.29,140.58,44.26,UPI
+37,10/4/2023,North,Delhi,Grocery,Oil,CUST1815,37,Male,5,4167,0.21,16459.65,5412.35,UPI
+38,1/22/2023,East,Kolkata,Grocery,Milk,CUST1749,47,Female,3,4596,0.09,12547.08,2976.64,Net Banking
+39,8/14/2023,West,Bangalore,Clothing,Jeans,CUST1276,47,Male,5,662,0.27,2416.3,509.01,UPI
+40,10/31/2023,East,Delhi,Clothing,Jeans,CUST1658,21,Female,1,1059,0.26,783.66,259.35,Card
+41,6/7/2023,North,Kolkata,Furniture,Sofa,CUST1476,23,Male,3,3220,0.01,9563.4,971.97,Card
+42,6/30/2023,North,Kolkata,Furniture,Sofa,CUST1606,52,Male,3,1160,0.28,2505.6,680.38,Net Banking
+43,6/10/2023,West,Bangalore,Grocery,Oil,CUST1255,20,Male,4,1239,0.09,4509.96,1282.95,Net Banking
+44,11/19/2023,South,Chennai,Furniture,Chair,CUST1871,41,Female,2,1916,0.12,3372.16,494.82,Cash
+45,6/4/2023,East,Mumbai,Electronics,Headphones,CUST1489,19,Female,2,4114,0.3,5759.6,2061.79,Cash
+46,9/3/2023,North,Bangalore,Grocery,Rice,CUST1175,56,Male,2,884,0.25,1326,476.05,Cash
+47,1/13/2023,East,Kolkata,Electronics,Mobile,CUST1827,24,Male,5,2906,0.13,12641.1,4084.82,Cash
+48,5/22/2023,South,Delhi,Grocery,Snacks,CUST1971,40,Female,1,4231,0.24,3215.56,659.22,UPI
+49,7/5/2023,West,Kolkata,Grocery,Oil,CUST1574,39,Male,4,2874,0.2,9196.8,2773.33,Net Banking
+50,4/11/2023,West,Hyderabad,Furniture,Bed,CUST1992,25,Female,2,1815,0.01,3593.7,1110.53,Card
+51,9/19/2023,East,Kolkata,Grocery,Rice,CUST1876,49,Female,5,3151,0.29,11186.05,2939.92,UPI
+52,5/24/2023,South,Delhi,Electronics,Headphones,CUST1268,59,Female,4,4242,0.21,13404.72,4805.51,Net Banking
+53,2/27/2023,South,Bangalore,Clothing,Jeans,CUST1950,43,Female,3,4852,0.12,12809.28,3457.79,Card
+54,5/9/2023,North,Kolkata,Clothing,Dress,CUST1057,18,Female,5,216,0.02,1058.4,287.36,Cash
+55,9/29/2023,North,Chennai,Electronics,TV,CUST1188,56,Male,2,659,0.05,1252.1,149.77,Net Banking
+56,3/27/2023,West,Hyderabad,Furniture,Sofa,CUST1696,46,Male,5,2394,0.01,11850.3,2727.81,UPI
+57,7/23/2023,West,Hyderabad,Clothing,Jeans,CUST1911,43,Female,4,3218,0.01,12743.28,1826.9,UPI
+58,9/11/2023,South,Delhi,Clothing,Jacket,CUST1733,54,Male,2,2579,0.24,3920.08,1160.77,Net Banking
+59,5/27/2023,North,Kolkata,Clothing,Jeans,CUST1441,49,Male,2,2949,0.08,5426.16,2145.55,Card
+60,10/7/2023,West,Kolkata,Furniture,Sofa,CUST1335,19,Male,1,1115,0.2,892,313.2,Card
+61,6/27/2023,South,Mumbai,Clothing,Jacket,CUST1674,50,Male,1,995,0.19,805.95,128.72,Cash
+62,3/6/2023,North,Delhi,Clothing,Dress,CUST1416,57,Female,1,2838,0.25,2128.5,451.71,Card
+63,4/5/2023,South,Chennai,Electronics,Laptop,CUST1301,19,Female,2,1166,0.06,2192.08,831.22,Card
+64,3/31/2023,South,Hyderabad,Electronics,TV,CUST1775,46,Male,5,2646,0.19,10716.3,3204.54,UPI
+65,7/15/2023,West,Kolkata,Electronics,Laptop,CUST1825,28,Male,2,1725,0.1,3105,999.16,UPI
+66,12/23/2023,West,Mumbai,Furniture,Sofa,CUST1456,41,Male,5,828,0.24,3146.4,992.34,UPI
+67,4/6/2023,West,Chennai,Furniture,Table,CUST1663,40,Female,3,1222,0.12,3226.08,930.38,UPI
+68,8/5/2023,North,Chennai,Electronics,TV,CUST1866,58,Female,5,3951,0.13,17186.85,3003.21,UPI
+69,12/8/2023,West,Mumbai,Electronics,Headphones,CUST1396,36,Female,1,4052,0.15,3444.2,523.73,Cash
+70,9/22/2023,West,Bangalore,Furniture,Sofa,CUST1454,45,Male,1,495,0.29,351.45,51.26,Card
+71,4/9/2023,West,Hyderabad,Furniture,Chair,CUST1395,42,Male,4,3677,0.19,11913.48,3162.63,UPI
+72,5/24/2023,South,Mumbai,Furniture,Bed,CUST1568,56,Female,4,3038,0.06,11422.88,1326.67,Card
+73,6/12/2023,South,Bangalore,Furniture,Sofa,CUST1214,46,Male,5,3082,0.3,10787,4134,Card
+74,9/10/2023,East,Hyderabad,Clothing,Jeans,CUST1229,24,Female,3,4946,0.04,14244.48,2443.6,Cash
+75,5/2/2023,South,Kolkata,Clothing,Dress,CUST1193,22,Female,5,1291,0.02,6325.9,970.66,Cash
+76,12/31/2023,East,Bangalore,Clothing,Jacket,CUST1832,39,Male,5,3336,0.07,15512.4,3499.73,UPI
+77,5/12/2023,North,Bangalore,Clothing,Shirt,CUST1803,23,Male,4,1780,0.28,5126.4,534.17,UPI
+78,6/16/2023,West,Hyderabad,Grocery,Milk,CUST1090,27,Female,4,3586,0.14,12335.84,3535.5,Card
+79,5/21/2023,North,Kolkata,Grocery,Oil,CUST1753,45,Female,2,3702,0.03,7181.88,1811.36,UPI
+80,1/1/2023,West,Mumbai,Furniture,Bed,CUST1386,30,Male,2,555,0.04,1065.6,218.7,Cash
+81,11/8/2023,North,Mumbai,Furniture,Table,CUST1928,55,Male,4,4385,0.12,15435.2,3961.99,Cash
+82,6/22/2023,South,Mumbai,Electronics,Laptop,CUST1828,38,Male,5,233,0.24,885.4,94.41,Net Banking
+83,5/27/2023,South,Delhi,Clothing,Shirt,CUST1531,35,Female,5,4398,0.28,15832.8,5131.46,Cash
+84,2/23/2023,South,Hyderabad,Grocery,Milk,CUST1885,20,Male,1,3476,0.21,2746.04,723.96,Card
+85,6/5/2023,South,Hyderabad,Furniture,Bed,CUST1372,25,Male,1,1453,0.29,1031.63,137.13,Cash
+86,1/28/2023,East,Bangalore,Furniture,Sofa,CUST1731,54,Female,2,4285,0.12,7541.6,2497.64,UPI
+87,5/25/2023,South,Chennai,Electronics,Mobile,CUST1200,50,Male,1,4935,0.3,3454.5,658.26,Cash
+88,2/15/2023,North,Kolkata,Clothing,Jeans,CUST1546,23,Male,5,2608,0.21,10301.6,3618.08,Card
+89,1/10/2023,East,Mumbai,Electronics,Headphones,CUST1823,47,Male,2,355,0.17,589.3,73.22,Card
+90,8/12/2023,South,Kolkata,Grocery,Snacks,CUST1238,28,Male,2,1115,0.11,1984.7,311.27,Net Banking
+91,6/26/2023,South,Mumbai,Clothing,Shirt,CUST1460,50,Male,5,4258,0.12,18735.2,2833.71,Card
+92,11/7/2023,East,Mumbai,Furniture,Bed,CUST1517,45,Male,2,2252,0.12,3963.52,1260.31,Card
+93,1/23/2023,North,Kolkata,Furniture,Sofa,CUST1996,54,Female,1,2856,0.3,1999.2,201.94,Card
+94,1/1/2023,West,Bangalore,Electronics,Mobile,CUST1050,30,Male,2,4278,0.07,7957.08,2107.33,Card
+95,12/14/2023,East,Delhi,Electronics,TV,CUST1094,25,Female,4,4644,0.2,14860.8,3188.56,Cash
+96,11/2/2023,East,Kolkata,Electronics,Laptop,CUST1267,18,Male,2,349,0.16,586.32,98.68,Card
+97,4/22/2023,South,Kolkata,Furniture,Chair,CUST1766,40,Male,4,488,0.03,1893.44,307.6,UPI
+98,7/11/2023,East,Chennai,Furniture,Sofa,CUST1763,51,Female,5,4081,0.21,16119.95,5418.09,UPI
+99,11/4/2023,West,Hyderabad,Grocery,Rice,CUST1248,55,Female,2,1458,0.13,2536.92,326.63,Card
+100,2/20/2023,East,Bangalore,Furniture,Sofa,CUST1080,22,Female,1,1458,0.12,1283.04,273.77,Cash
+101,12/6/2023,North,Chennai,Furniture,Table,CUST1983,22,Female,5,237,0.28,853.2,215.32,Cash
+102,4/21/2023,North,Kolkata,Electronics,TV,CUST1760,40,Male,2,4400,0.06,8272,1870.34,Cash
+103,7/3/2023,East,Hyderabad,Grocery,Snacks,CUST1280,20,Female,3,3545,0.21,8401.65,2906.8,Card
+104,5/2/2023,South,Hyderabad,Furniture,Table,CUST1050,36,Male,3,766,0.2,1838.4,640.32,Net Banking
+105,11/22/2023,North,Chennai,Grocery,Milk,CUST1512,22,Female,5,4799,0.1,21595.5,8432.15,Card
+106,3/19/2023,South,Kolkata,Clothing,Shirt,CUST1729,44,Male,1,623,0.06,585.62,170.25,UPI
+107,2/25/2023,North,Hyderabad,Furniture,Chair,CUST1349,34,Female,1,2396,0.14,2060.56,399.06,UPI
+108,7/26/2023,South,Delhi,Electronics,Mobile,CUST1302,39,Female,2,2155,0.22,3361.8,1158.62,Card
+109,12/31/2023,East,Kolkata,Electronics,Mobile,CUST1665,31,Male,2,4223,0.11,7516.94,1963.72,Cash
+110,10/1/2023,West,Hyderabad,Clothing,Jacket,CUST1505,55,Male,3,1746,0.25,3928.5,687.94,Net Banking
+111,1/28/2023,South,Delhi,Furniture,Chair,CUST1713,56,Female,3,2006,0.07,5596.74,1786.63,UPI
+112,10/27/2023,East,Delhi,Clothing,Dress,CUST1536,34,Female,1,1396,0.06,1312.24,395.97,Net Banking
+113,8/21/2023,West,Hyderabad,Furniture,Sofa,CUST1108,35,Male,5,3383,0.14,14546.9,4269.06,Net Banking
+114,8/24/2023,North,Mumbai,Clothing,Dress,CUST1594,59,Female,4,4306,0.22,13434.72,3125.95,Card
+115,8/14/2023,East,Delhi,Clothing,Jacket,CUST1442,23,Male,1,2760,0.11,2456.4,506.57,Net Banking
+116,7/17/2023,East,Delhi,Electronics,Mobile,CUST1581,21,Male,5,3548,0.07,16498.2,6095.51,UPI
+117,11/7/2023,West,Hyderabad,Electronics,Mobile,CUST1136,20,Male,3,3617,0.09,9874.41,3436.18,UPI
+118,8/11/2023,North,Kolkata,Clothing,Shirt,CUST1005,19,Male,3,2690,0.12,7101.6,747.7,Card
+119,4/4/2023,West,Delhi,Clothing,Jeans,CUST1503,55,Female,4,4270,0.26,12639.2,1957.54,UPI
+120,6/22/2023,West,Bangalore,Electronics,Mobile,CUST1299,22,Female,3,4389,0.17,10928.61,2497.36,Card
+121,1/20/2023,South,Bangalore,Furniture,Chair,CUST1112,29,Female,2,1241,0.21,1960.78,666.96,Card
+122,5/19/2023,West,Bangalore,Furniture,Table,CUST1510,53,Female,1,4849,0.09,4412.59,995.61,Cash
+123,1/10/2023,North,Hyderabad,Clothing,Dress,CUST1260,40,Male,5,2126,0.18,8716.6,2521.11,UPI
+124,3/25/2023,East,Kolkata,Furniture,Chair,CUST1320,54,Male,2,2319,0.06,4359.72,848.53,Card
+125,2/7/2023,North,Hyderabad,Electronics,Headphones,CUST1418,47,Male,1,2932,0.04,2814.72,726.34,UPI
+126,11/30/2023,South,Kolkata,Furniture,Sofa,CUST1884,28,Male,1,1704,0.25,1278,141.21,Net Banking
+127,11/16/2023,South,Hyderabad,Electronics,TV,CUST1917,46,Male,1,2735,0.11,2434.15,297.12,UPI
+128,10/18/2023,North,Mumbai,Furniture,Table,CUST1724,54,Female,3,972,0.23,2245.32,359.56,Cash
+129,5/12/2023,South,Kolkata,Grocery,Snacks,CUST1600,59,Male,5,2998,0.2,11992,2915.02,Cash
+130,1/14/2023,North,Mumbai,Clothing,Jacket,CUST1799,55,Male,1,2549,0.24,1937.24,519.68,UPI
+131,8/13/2023,East,Hyderabad,Electronics,TV,CUST1502,19,Female,1,4770,0.15,4054.5,1339.35,Card
+132,7/17/2023,North,Mumbai,Clothing,Dress,CUST1645,20,Female,5,3787,0.07,17609.55,4176.02,UPI
+133,6/6/2023,South,Delhi,Furniture,Sofa,CUST1549,50,Male,3,2135,0.22,4995.9,1139.34,Net Banking
+134,11/18/2023,East,Kolkata,Electronics,Headphones,CUST1521,22,Male,5,1050,0.04,5040,1706.73,Cash
+135,6/8/2023,North,Bangalore,Furniture,Table,CUST1814,53,Female,3,1965,0.1,5305.5,815.05,Net Banking
+136,11/20/2023,East,Delhi,Clothing,Jacket,CUST1843,19,Male,5,3328,0.16,13977.6,3551.61,Card
+137,10/9/2023,East,Mumbai,Furniture,Chair,CUST1810,44,Male,3,194,0.18,477.24,109.93,UPI
+138,5/14/2023,North,Hyderabad,Clothing,Jacket,CUST1711,40,Female,5,4206,0.29,14931.3,4438.22,Net Banking
+139,4/14/2023,North,Hyderabad,Clothing,Jeans,CUST1957,35,Male,2,2449,0.18,4016.36,507.85,Cash
+140,12/22/2023,West,Hyderabad,Electronics,TV,CUST1323,22,Female,1,1739,0.26,1286.86,154.89,Cash
+141,2/20/2023,West,Kolkata,Electronics,TV,CUST1028,31,Male,5,226,0.05,1073.5,243.81,Cash
+142,4/11/2023,West,Chennai,Clothing,Jeans,CUST1404,43,Female,1,3897,0.27,2844.81,1033.11,Card
+143,2/24/2023,South,Delhi,Grocery,Milk,CUST1370,57,Female,4,1305,0.25,3915,1175.89,Net Banking
+144,11/9/2023,South,Kolkata,Clothing,Shirt,CUST1116,43,Male,5,3602,0.02,17649.8,5285.07,Net Banking
+145,10/21/2023,South,Mumbai,Electronics,TV,CUST1385,24,Female,1,674,0.12,593.12,83.6,Net Banking
+146,12/30/2023,West,Delhi,Electronics,TV,CUST1762,41,Female,2,574,0.22,895.44,236.7,Cash
+147,6/10/2023,South,Delhi,Electronics,Headphones,CUST1176,46,Male,1,2090,0.05,1985.5,774.02,Net Banking
+148,2/18/2023,East,Chennai,Clothing,Jeans,CUST1966,34,Female,3,4857,0.07,13551.03,4555.8,UPI
+149,3/4/2023,South,Mumbai,Electronics,Headphones,CUST1700,57,Male,4,3532,0.04,13562.88,3738.1,Cash
+150,8/3/2023,West,Delhi,Electronics,TV,CUST1434,36,Male,1,4522,0.18,3708.04,1408.6,Cash
+151,1/19/2023,South,Bangalore,Clothing,Shirt,CUST1017,18,Female,5,3476,0.01,17206.2,4445.74,Cash
+152,4/24/2023,West,Delhi,Electronics,TV,CUST1221,55,Female,3,3157,0.16,7955.64,2130.29,Cash
+153,10/15/2023,East,Delhi,Clothing,Jeans,CUST1777,27,Male,3,3435,0.26,7625.7,885.84,Net Banking
+154,2/24/2023,North,Mumbai,Furniture,Bed,CUST1475,49,Male,3,2001,0.16,5042.52,805.67,Net Banking
+155,9/4/2023,East,Delhi,Furniture,Bed,CUST1834,41,Male,2,3562,0.2,5699.2,2233.35,UPI
+156,3/8/2023,East,Chennai,Furniture,Table,CUST1050,50,Male,3,427,0.03,1242.57,198.84,Net Banking
+157,3/29/2023,South,Chennai,Electronics,Mobile,CUST1077,49,Male,4,3154,0.22,9840.48,1558.79,Cash
+158,8/11/2023,North,Kolkata,Electronics,Laptop,CUST1822,35,Male,3,4083,0.12,10779.12,2151.24,UPI
+159,4/22/2023,South,Kolkata,Electronics,TV,CUST1380,36,Female,2,874,0.22,1363.44,198.46,Net Banking
+160,10/30/2023,East,Chennai,Furniture,Bed,CUST1708,37,Male,4,1408,0.13,4899.84,647.75,Card
+161,4/29/2023,West,Chennai,Clothing,Jeans,CUST1395,37,Male,3,4941,0.25,11117.25,3236.03,Net Banking
+162,8/14/2023,South,Hyderabad,Electronics,TV,CUST1052,52,Female,5,904,0.12,3977.6,932.29,UPI
+163,7/21/2023,North,Chennai,Furniture,Sofa,CUST1157,40,Female,4,3677,0.23,11325.16,4054.02,Net Banking
+164,2/9/2023,South,Bangalore,Electronics,Laptop,CUST1961,42,Male,1,4053,0.01,4012.47,1281.57,Cash
+165,1/29/2023,East,Kolkata,Grocery,Oil,CUST1108,51,Female,1,1401,0.25,1050.75,109.99,UPI
+166,2/11/2023,South,Hyderabad,Clothing,Shirt,CUST1355,58,Female,5,174,0.25,652.5,157.32,Cash
+167,1/27/2023,East,Mumbai,Electronics,Headphones,CUST1824,48,Female,2,4783,0.06,8992.04,3567.15,Card
+168,11/5/2023,North,Chennai,Grocery,Milk,CUST1454,27,Female,3,4363,0.08,12041.88,2529.64,Net Banking
+169,5/2/2023,North,Chennai,Furniture,Sofa,CUST1557,19,Male,5,3572,0.13,15538.2,4429.3,UPI
+170,10/9/2023,East,Mumbai,Electronics,TV,CUST1028,38,Female,4,1486,0.06,5587.36,2083.52,Cash
+171,10/22/2023,West,Delhi,Grocery,Rice,CUST1743,52,Female,3,2158,0.11,5761.86,1061.83,Net Banking
+172,3/10/2023,North,Chennai,Furniture,Table,CUST1311,50,Male,2,4250,0.2,6800,808.87,Net Banking
+173,12/3/2023,South,Delhi,Furniture,Sofa,CUST1957,51,Female,2,850,0.08,1564,346.39,Card
+174,10/23/2023,West,Bangalore,Electronics,Headphones,CUST1016,18,Female,1,253,0.14,217.58,64.55,Net Banking
+175,2/8/2023,West,Kolkata,Electronics,Headphones,CUST1802,20,Female,1,160,0.21,126.4,34.07,Net Banking
+176,4/12/2023,South,Hyderabad,Furniture,Table,CUST1865,29,Male,2,1352,0,2704,296.6,Cash
+177,1/17/2023,South,Delhi,Electronics,Laptop,CUST1329,29,Female,3,1736,0.03,5051.76,630.49,UPI
+178,7/17/2023,North,Chennai,Electronics,TV,CUST1199,42,Female,3,4162,0.24,9489.36,1920.31,Card
+179,1/26/2023,West,Kolkata,Furniture,Chair,CUST1046,49,Female,2,3826,0.21,6045.08,2324.46,Net Banking
+180,3/27/2023,North,Kolkata,Grocery,Rice,CUST1249,24,Male,2,4906,0.3,6868.4,1602.11,Net Banking
+181,11/11/2023,South,Bangalore,Electronics,Headphones,CUST1726,46,Female,5,4332,0.06,20360.4,7440,Cash
+182,4/13/2023,West,Kolkata,Furniture,Sofa,CUST1272,31,Male,2,3394,0.26,5023.12,736.57,Card
+183,10/20/2023,West,Mumbai,Furniture,Bed,CUST1170,57,Male,3,2767,0.04,7968.96,3003.61,Cash
+184,1/4/2023,North,Mumbai,Clothing,Jacket,CUST1348,39,Female,2,4378,0.12,7705.28,1758.9,Card
+185,4/18/2023,South,Bangalore,Furniture,Bed,CUST1893,19,Male,1,2869,0.16,2409.96,655.4,Cash
+186,9/26/2023,South,Delhi,Furniture,Sofa,CUST1140,35,Female,3,3341,0.3,7016.1,2805.94,UPI
+187,11/14/2023,North,Kolkata,Clothing,Dress,CUST1244,33,Male,3,913,0.11,2437.71,414.03,Cash
+188,12/25/2023,South,Chennai,Clothing,Jacket,CUST1339,22,Male,4,1362,0.12,4794.24,1785.81,Cash
+189,6/7/2023,South,Delhi,Electronics,Headphones,CUST1323,35,Female,1,3860,0.03,3744.2,1099.35,Net Banking
+190,3/14/2023,West,Chennai,Clothing,Dress,CUST1398,41,Male,5,531,0.01,2628.45,272.53,Net Banking
+191,7/17/2023,South,Chennai,Electronics,Laptop,CUST1806,41,Male,4,2334,0.28,6721.92,1103.04,Net Banking
+192,9/17/2023,North,Delhi,Furniture,Sofa,CUST1570,25,Female,3,1968,0.3,4132.8,731.48,UPI
+193,4/17/2023,West,Mumbai,Grocery,Snacks,CUST1225,43,Female,4,984,0.25,2952,1074.23,Cash
+194,1/5/2023,South,Bangalore,Furniture,Table,CUST1772,40,Female,1,2900,0.29,2059,313.25,UPI
+195,6/27/2023,North,Mumbai,Clothing,Jacket,CUST1849,34,Male,1,3270,0.18,2681.4,650.21,Cash
+196,3/30/2023,East,Delhi,Electronics,Mobile,CUST1328,21,Male,3,4355,0.14,11235.9,2394.58,UPI
+197,5/3/2023,West,Mumbai,Grocery,Milk,CUST1987,46,Female,5,3781,0.14,16258.3,4595.39,Cash
+198,1/9/2023,West,Mumbai,Grocery,Snacks,CUST1462,57,Male,1,1318,0.29,935.78,132.28,Cash
+199,2/7/2023,East,Bangalore,Furniture,Table,CUST1327,22,Female,1,1518,0.03,1472.46,408.55,UPI
+200,10/11/2023,North,Mumbai,Clothing,Jacket,CUST1964,30,Female,2,1013,0.02,1985.48,663.04,UPI
+201,4/25/2023,West,Kolkata,Furniture,Table,CUST1697,20,Female,1,3211,0.26,2376.14,582.57,UPI
+202,8/4/2023,West,Chennai,Furniture,Table,CUST1146,33,Male,2,4030,0.26,5964.4,1072.56,UPI
+203,6/30/2023,South,Hyderabad,Furniture,Chair,CUST1169,53,Female,4,1804,0.1,6494.4,2132.72,Cash
+204,2/14/2023,West,Chennai,Electronics,Mobile,CUST1825,48,Female,3,2569,0.06,7244.58,981.7,Net Banking
+205,3/23/2023,South,Mumbai,Clothing,Shirt,CUST1355,19,Male,2,2819,0.1,5074.2,897.87,Card
+206,1/13/2023,North,Delhi,Furniture,Sofa,CUST1045,44,Female,5,2112,0.08,9715.2,3323.18,Cash
+207,12/10/2023,South,Hyderabad,Furniture,Chair,CUST1364,52,Male,1,2164,0.03,2099.08,602.42,Cash
+208,11/15/2023,East,Chennai,Clothing,Jeans,CUST1411,32,Male,3,3626,0.16,9137.52,1015.2,Cash
+209,8/30/2023,North,Chennai,Clothing,Jacket,CUST1323,44,Male,5,377,0.28,1357.2,262.8,Card
+210,1/22/2023,North,Bangalore,Grocery,Rice,CUST1473,35,Male,1,1017,0.21,803.43,207.23,Cash
+211,9/8/2023,South,Delhi,Furniture,Sofa,CUST1226,29,Male,2,4899,0.2,7838.4,2086.68,Net Banking
+212,2/27/2023,East,Hyderabad,Electronics,Mobile,CUST1982,43,Female,5,1006,0.25,3772.5,1088.18,UPI
+213,4/9/2023,South,Chennai,Grocery,Milk,CUST1396,58,Male,2,1553,0.14,2671.16,311.75,Cash
+214,6/24/2023,East,Kolkata,Electronics,Laptop,CUST1973,37,Male,5,2304,0.09,10483.2,1551.68,UPI
+215,4/2/2023,North,Kolkata,Grocery,Milk,CUST1988,38,Female,3,3878,0.29,8260.14,2929.73,Cash
+216,9/14/2023,North,Mumbai,Furniture,Sofa,CUST1569,55,Female,5,4126,0.29,14647.3,2518.92,Cash
+217,10/7/2023,West,Kolkata,Electronics,Headphones,CUST1523,35,Male,2,2080,0.06,3910.4,545.75,Card
+218,5/25/2023,South,Hyderabad,Grocery,Oil,CUST1604,25,Male,4,2355,0.16,7912.8,2787.1,Card
+219,6/30/2023,West,Chennai,Clothing,Jeans,CUST1535,20,Female,3,3733,0.23,8623.23,1829.28,Card
+220,9/30/2023,North,Kolkata,Electronics,Laptop,CUST1893,37,Female,4,626,0.14,2153.44,785.59,Net Banking
+221,11/15/2023,North,Kolkata,Electronics,Laptop,CUST1725,19,Male,4,620,0.06,2331.2,588.68,Net Banking
+222,11/16/2023,North,Mumbai,Grocery,Milk,CUST1337,48,Male,3,3888,0.04,11197.44,2918.28,Card
+223,9/24/2023,West,Bangalore,Grocery,Milk,CUST1213,41,Male,3,828,0.26,1838.16,305.22,Cash
+224,3/21/2023,East,Bangalore,Grocery,Snacks,CUST1309,39,Female,1,2548,0.03,2471.56,565.32,Card
+225,12/19/2023,East,Hyderabad,Furniture,Bed,CUST1001,50,Female,4,2820,0.17,9362.4,3717.52,Cash
+226,6/3/2023,South,Chennai,Electronics,Headphones,CUST1917,56,Female,1,4144,0.02,4061.12,619.91,Net Banking
+227,4/16/2023,East,Chennai,Clothing,Shirt,CUST1886,57,Female,2,189,0.21,298.62,47.73,Net Banking
+228,9/19/2023,North,Chennai,Clothing,Jacket,CUST1072,56,Female,3,416,0.21,985.92,385.03,Net Banking
+229,11/14/2023,North,Hyderabad,Grocery,Snacks,CUST1083,24,Female,1,815,0.26,603.1,112.04,UPI
+230,1/3/2023,South,Mumbai,Electronics,Mobile,CUST1126,58,Female,3,307,0.16,773.64,119.77,Card
+231,3/28/2023,West,Bangalore,Electronics,Laptop,CUST1523,30,Female,4,4209,0.02,16499.28,6300.98,Cash
+232,12/22/2023,West,Chennai,Furniture,Chair,CUST1684,25,Female,1,1366,0.07,1270.38,136.24,Cash
+233,10/27/2023,West,Kolkata,Electronics,Laptop,CUST1593,23,Male,5,3802,0.13,16538.7,6398.85,UPI
+234,2/28/2023,North,Bangalore,Furniture,Bed,CUST1642,45,Female,2,761,0.1,1369.8,324.99,Cash
+235,7/26/2023,West,Chennai,Furniture,Chair,CUST1352,24,Female,2,854,0.2,1366.4,516.96,Card
+236,1/24/2023,North,Chennai,Grocery,Rice,CUST1403,54,Male,4,3988,0.26,11804.48,2146.64,Cash
+237,6/1/2023,West,Chennai,Electronics,TV,CUST1561,49,Male,4,2879,0.11,10249.24,1062.9,UPI
+238,3/7/2023,West,Kolkata,Furniture,Sofa,CUST1334,51,Male,1,1373,0.22,1070.94,272.02,Cash
+239,7/5/2023,South,Mumbai,Furniture,Chair,CUST1245,29,Male,4,1897,0.2,6070.4,621.37,Net Banking
+240,12/21/2023,South,Bangalore,Furniture,Table,CUST1793,25,Female,3,629,0.19,1528.47,275.23,Cash
+241,11/30/2023,North,Hyderabad,Grocery,Snacks,CUST1001,54,Male,4,4673,0.05,17757.4,5837.51,Cash
+242,11/12/2023,West,Hyderabad,Clothing,Shirt,CUST1380,31,Female,5,4105,0.15,17446.25,5684.52,Net Banking
+243,12/11/2023,South,Kolkata,Furniture,Sofa,CUST1027,19,Female,1,3255,0.18,2669.1,936.7,UPI
+244,6/13/2023,South,Hyderabad,Grocery,Snacks,CUST1300,40,Female,3,1352,0,4056,906.42,UPI
+245,4/3/2023,North,Delhi,Furniture,Table,CUST1777,29,Male,3,3181,0.02,9352.14,3264.58,Card
+246,1/1/2023,West,Delhi,Furniture,Bed,CUST1312,37,Male,1,1380,0.13,1200.6,268.5,Net Banking
+247,7/23/2023,North,Kolkata,Furniture,Chair,CUST1164,45,Male,4,3292,0.18,10797.76,3163.53,Card
+248,5/10/2023,East,Kolkata,Clothing,Shirt,CUST1968,54,Male,4,1374,0.03,5331.12,1701.03,Net Banking
+249,7/17/2023,North,Kolkata,Furniture,Table,CUST1484,22,Male,4,381,0.01,1508.76,548.23,Net Banking
+250,10/3/2023,North,Kolkata,Furniture,Bed,CUST1692,41,Female,1,1108,0.18,908.56,175.84,Card
+251,7/4/2023,North,Mumbai,Grocery,Oil,CUST1038,48,Male,3,225,0.29,479.25,99.81,UPI
+252,5/31/2023,East,Chennai,Furniture,Chair,CUST1383,33,Female,3,3349,0.1,9042.3,2173.1,Cash
+253,12/7/2023,North,Chennai,Furniture,Chair,CUST1128,25,Male,2,2893,0.22,4513.08,1585.38,Cash
+254,7/12/2023,South,Bangalore,Electronics,Mobile,CUST1310,43,Female,5,4712,0.29,16727.6,5409.84,Net Banking
+255,5/16/2023,South,Hyderabad,Grocery,Oil,CUST1302,57,Male,3,3585,0.15,9141.75,1962.24,Cash
+256,10/16/2023,North,Hyderabad,Furniture,Bed,CUST1000,36,Male,1,4783,0.03,4639.51,748.57,Net Banking
+257,8/8/2023,East,Mumbai,Electronics,Laptop,CUST1961,23,Female,5,1427,0.2,5708,2100.67,UPI
+258,3/14/2023,South,Kolkata,Clothing,Shirt,CUST1756,30,Female,1,3332,0.12,2932.16,406.91,Cash
+259,5/12/2023,East,Delhi,Electronics,TV,CUST1613,36,Male,1,1447,0.2,1157.6,197.3,Card
+260,5/9/2023,West,Delhi,Clothing,Shirt,CUST1343,24,Male,2,1100,0.1,1980,275.87,Card
+261,7/18/2023,North,Mumbai,Grocery,Snacks,CUST1142,38,Female,1,2872,0.1,2584.8,749.75,Net Banking
+262,8/12/2023,South,Bangalore,Clothing,Dress,CUST1496,52,Female,3,2975,0.16,7497,1657.24,Cash
+263,11/26/2023,East,Kolkata,Electronics,Mobile,CUST1961,26,Male,4,3438,0.18,11276.64,2250.1,Card
+264,4/27/2023,North,Bangalore,Furniture,Sofa,CUST1220,43,Male,3,3965,0.29,8445.45,1231.77,Net Banking
+265,10/27/2023,West,Kolkata,Grocery,Rice,CUST1739,32,Male,1,111,0.04,106.56,25.79,Net Banking
+266,12/30/2023,West,Mumbai,Grocery,Oil,CUST1890,38,Male,3,1043,0.16,2628.36,462.43,UPI
+267,10/8/2023,South,Hyderabad,Clothing,Shirt,CUST1803,28,Female,3,1114,0.27,2439.66,923.69,Net Banking
+268,10/2/2023,West,Chennai,Electronics,Laptop,CUST1801,31,Female,3,3954,0.06,11150.28,2857.2,Net Banking
+269,1/27/2023,South,Kolkata,Grocery,Oil,CUST1668,45,Male,5,1063,0.08,4889.8,1538.03,Net Banking
+270,3/18/2023,West,Chennai,Clothing,Shirt,CUST1643,43,Female,3,205,0.18,504.3,93.37,Card
+271,3/15/2023,North,Delhi,Electronics,Headphones,CUST1038,30,Female,1,4545,0.05,4317.75,844.83,Cash
+272,9/20/2023,North,Mumbai,Grocery,Rice,CUST1821,18,Male,1,544,0.08,500.48,55.61,Cash
+273,4/28/2023,East,Kolkata,Grocery,Rice,CUST1276,39,Female,4,1808,0.19,5857.92,671.19,Card
+274,5/1/2023,South,Delhi,Clothing,Jeans,CUST1636,59,Male,4,4076,0.24,12391.04,2552.78,UPI
+275,6/1/2023,East,Delhi,Furniture,Sofa,CUST1530,53,Female,1,3325,0.08,3059,946.4,Net Banking
+276,8/30/2023,North,Hyderabad,Electronics,Headphones,CUST1580,52,Female,4,3373,0.24,10253.92,1743.2,Cash
+277,5/30/2023,North,Hyderabad,Grocery,Rice,CUST1431,54,Female,4,1349,0.14,4640.56,1110.92,Card
+278,3/19/2023,East,Kolkata,Furniture,Sofa,CUST1076,42,Male,3,1087,0.06,3065.34,639.47,Card
+279,11/19/2023,North,Bangalore,Electronics,Mobile,CUST1553,56,Female,2,1443,0.04,2770.56,530.44,UPI
+280,8/6/2023,East,Mumbai,Grocery,Milk,CUST1101,59,Male,1,3451,0.04,3312.96,1221.71,Net Banking
+281,3/14/2023,West,Mumbai,Clothing,Jeans,CUST1647,50,Female,5,4231,0.03,20520.35,2703.41,Card
+282,11/12/2023,East,Mumbai,Electronics,Laptop,CUST1641,22,Female,3,2572,0.19,6249.96,1670.47,Net Banking
+283,7/19/2023,West,Bangalore,Furniture,Sofa,CUST1561,20,Male,4,3710,0.19,12020.4,3830.37,Card
+284,5/10/2023,North,Hyderabad,Grocery,Rice,CUST1726,19,Male,4,2528,0.14,8696.32,2981.99,Net Banking
+285,9/21/2023,East,Mumbai,Furniture,Bed,CUST1661,53,Male,1,3974,0.22,3099.72,807.29,UPI
+286,11/7/2023,West,Chennai,Electronics,Laptop,CUST1207,59,Female,5,1968,0.19,7970.4,1383.25,UPI
+287,5/16/2023,West,Mumbai,Electronics,Mobile,CUST1979,20,Male,1,2202,0.23,1695.54,501.42,Card
+288,12/26/2023,South,Mumbai,Clothing,Dress,CUST1247,18,Male,5,4543,0.29,16127.65,6354.17,Card
+289,8/19/2023,East,Hyderabad,Electronics,Headphones,CUST1799,50,Female,1,385,0.16,323.4,68.86,UPI
+290,5/22/2023,West,Delhi,Electronics,Mobile,CUST1803,50,Male,5,2931,0.15,12456.75,4387.38,UPI
+291,9/6/2023,West,Hyderabad,Electronics,TV,CUST1968,18,Female,2,1701,0.11,3027.78,896.54,UPI
+292,11/7/2023,East,Chennai,Electronics,TV,CUST1261,52,Male,3,1825,0.13,4763.25,1047.07,UPI
+293,1/12/2023,West,Mumbai,Electronics,Laptop,CUST1238,59,Male,3,2290,0.3,4809,695.25,Net Banking
+294,5/14/2023,North,Delhi,Grocery,Rice,CUST1066,33,Female,2,1926,0.2,3081.6,740.37,Net Banking
+295,12/13/2023,West,Bangalore,Furniture,Bed,CUST1129,52,Female,4,172,0.1,619.2,243.43,Net Banking
+296,11/6/2023,West,Hyderabad,Grocery,Snacks,CUST1288,53,Male,2,4461,0.25,6691.5,2410.56,UPI
+297,1/25/2023,North,Delhi,Electronics,Laptop,CUST1652,51,Female,1,1233,0.27,900.09,136.09,UPI
+298,1/12/2023,North,Delhi,Furniture,Sofa,CUST1799,49,Male,5,1063,0.04,5102.4,566.7,UPI
+299,11/12/2023,South,Bangalore,Clothing,Shirt,CUST1446,23,Male,4,3824,0.28,11013.12,1510.65,Card
+300,10/14/2023,East,Chennai,Clothing,Shirt,CUST1516,36,Male,5,4238,0.19,17163.9,3517.56,Cash
+301,2/25/2023,West,Mumbai,Electronics,Mobile,CUST1462,26,Female,2,4837,0.15,8222.9,1428.51,UPI
+302,7/9/2023,East,Hyderabad,Grocery,Oil,CUST1493,24,Female,3,4076,0.04,11738.88,4268.08,Net Banking
+303,9/30/2023,West,Kolkata,Furniture,Chair,CUST1100,56,Female,4,708,0.15,2407.2,243.11,UPI
+304,8/19/2023,West,Hyderabad,Furniture,Bed,CUST1689,54,Male,4,919,0.05,3492.2,709.9,Cash
+305,4/2/2023,East,Bangalore,Furniture,Bed,CUST1981,31,Male,4,867,0.06,3259.92,944.31,UPI
+306,3/3/2023,South,Kolkata,Electronics,Headphones,CUST1730,38,Female,5,2745,0.29,9744.75,3171.19,Cash
+307,8/30/2023,East,Mumbai,Furniture,Chair,CUST1492,38,Female,5,1000,0.06,4700,1862.91,UPI
+308,7/7/2023,South,Bangalore,Clothing,Dress,CUST1394,38,Male,5,2485,0.02,12176.5,4714.86,Card
+309,2/3/2023,South,Bangalore,Grocery,Oil,CUST1563,35,Male,4,4378,0.04,16811.52,6083.08,UPI
+310,1/21/2023,South,Delhi,Clothing,Jacket,CUST1553,30,Male,3,3904,0.12,10306.56,2702.03,UPI
+311,5/9/2023,South,Hyderabad,Clothing,Jacket,CUST1129,46,Female,1,4300,0.03,4171,844.18,Net Banking
+312,10/4/2023,East,Kolkata,Furniture,Table,CUST1283,28,Female,1,341,0.01,337.59,43.71,Cash
+313,3/20/2023,West,Bangalore,Furniture,Bed,CUST1912,40,Female,2,875,0.27,1277.5,267,Card
+314,3/28/2023,South,Mumbai,Electronics,Mobile,CUST1042,18,Male,5,2248,0.01,11127.6,4324.11,Card
+315,5/13/2023,East,Mumbai,Clothing,Dress,CUST1147,38,Male,5,3606,0.02,17669.4,7003.58,Cash
+316,7/30/2023,South,Bangalore,Grocery,Milk,CUST1390,45,Female,2,2050,0.09,3731,1100.98,UPI
+317,12/18/2023,East,Kolkata,Furniture,Chair,CUST1519,27,Female,3,3662,0.12,9667.68,2273.02,Net Banking
+318,11/25/2023,South,Delhi,Furniture,Bed,CUST1961,32,Male,4,1346,0.23,4145.68,1374.9,Net Banking
+319,3/19/2023,South,Delhi,Electronics,Laptop,CUST1616,58,Female,2,1062,0.04,2039.04,439.41,Card
+320,9/23/2023,East,Delhi,Clothing,Jeans,CUST1148,53,Male,1,477,0.14,410.22,53.84,UPI
+321,12/17/2023,North,Chennai,Clothing,Dress,CUST1911,49,Male,4,869,0.18,2850.32,642.1,Card
+322,7/2/2023,East,Bangalore,Clothing,Jacket,CUST1968,42,Female,4,622,0.01,2463.12,903.37,Card
+323,8/1/2023,North,Chennai,Grocery,Snacks,CUST1171,49,Male,3,3797,0.28,8201.52,2688.39,UPI
+324,5/2/2023,East,Delhi,Clothing,Shirt,CUST1543,47,Female,3,785,0,2355,240.86,Net Banking
+325,5/29/2023,West,Chennai,Clothing,Dress,CUST1637,25,Male,1,4975,0.28,3582,1161.74,Card
+326,8/23/2023,West,Mumbai,Clothing,Jeans,CUST1344,39,Male,4,1859,0.05,7064.2,1670.63,UPI
+327,8/1/2023,East,Mumbai,Furniture,Bed,CUST1462,44,Female,4,3968,0.22,12380.16,4551.16,Card
+328,2/13/2023,South,Chennai,Grocery,Milk,CUST1460,39,Male,2,3778,0.15,6422.6,2278.72,Cash
+329,7/10/2023,South,Chennai,Grocery,Rice,CUST1629,36,Female,3,2568,0.18,6317.28,1563.48,Cash
+330,12/28/2023,South,Delhi,Electronics,TV,CUST1185,33,Female,5,1404,0.23,5405.4,1902.58,Cash
+331,8/12/2023,North,Bangalore,Electronics,TV,CUST1831,59,Male,1,1384,0.26,1024.16,324.28,Card
+332,10/29/2023,North,Chennai,Clothing,Dress,CUST1230,44,Female,2,3662,0.09,6664.84,1181.65,Card
+333,3/27/2023,West,Chennai,Electronics,Headphones,CUST1233,43,Female,3,3237,0.11,8642.79,1424.87,UPI
+334,5/1/2023,West,Kolkata,Electronics,Laptop,CUST1417,37,Female,2,2713,0.25,4069.5,1614.33,Net Banking
+335,11/8/2023,North,Mumbai,Electronics,Laptop,CUST1210,54,Female,3,4083,0.04,11759.04,3625.53,Net Banking
+336,1/24/2023,North,Kolkata,Electronics,Headphones,CUST1226,43,Female,2,2279,0.12,4011.04,830.25,UPI
+337,9/17/2023,East,Bangalore,Electronics,Laptop,CUST1187,37,Female,5,2123,0.05,10084.25,3945.75,Card
+338,1/3/2023,West,Mumbai,Grocery,Snacks,CUST1727,54,Male,1,3290,0.26,2434.6,601.27,Card
+339,6/7/2023,West,Chennai,Grocery,Milk,CUST1593,36,Female,2,3047,0.02,5972.12,1517.04,Cash
+340,7/30/2023,East,Kolkata,Furniture,Table,CUST1405,41,Female,4,4255,0.1,15318,3202.27,Card
+341,12/22/2023,West,Kolkata,Furniture,Chair,CUST1703,36,Male,5,641,0.29,2275.55,766.97,Card
+342,5/26/2023,North,Hyderabad,Electronics,Headphones,CUST1830,45,Female,5,4935,0.04,23688,4248.4,UPI
+343,10/28/2023,East,Bangalore,Grocery,Oil,CUST1160,34,Female,3,1426,0.3,2994.6,359.55,Net Banking
+344,7/17/2023,West,Hyderabad,Furniture,Sofa,CUST1558,31,Male,4,759,0.24,2307.36,841.03,Net Banking
+345,11/21/2023,South,Mumbai,Electronics,Headphones,CUST1504,27,Male,4,174,0.22,542.88,62.38,Net Banking
+346,7/17/2023,North,Kolkata,Grocery,Oil,CUST1848,36,Female,2,3796,0.18,6225.44,1394.85,Cash
+347,12/15/2023,West,Mumbai,Electronics,Mobile,CUST1831,54,Female,2,646,0.13,1124.04,155.32,UPI
+348,12/22/2023,East,Kolkata,Clothing,Jeans,CUST1581,43,Male,4,2196,0.13,7642.08,907.83,Cash
+349,5/9/2023,South,Delhi,Furniture,Bed,CUST1791,53,Male,4,4833,0.22,15078.96,3785.75,Card
+350,1/31/2023,North,Delhi,Grocery,Snacks,CUST1595,41,Female,1,785,0.18,643.7,231.34,Cash
+351,4/16/2023,East,Kolkata,Clothing,Shirt,CUST1413,39,Male,1,4743,0,4743,1494.88,Cash
+352,12/2/2023,West,Chennai,Clothing,Dress,CUST1399,48,Male,4,262,0.08,964.16,157.99,UPI
+353,8/16/2023,East,Delhi,Clothing,Shirt,CUST1695,37,Female,2,304,0.08,559.36,197.5,Net Banking
+354,6/27/2023,North,Bangalore,Clothing,Jacket,CUST1928,44,Male,2,2397,0.17,3979.02,1178.68,Cash
+355,5/23/2023,North,Chennai,Furniture,Table,CUST1943,24,Female,2,771,0.2,1233.6,136.91,UPI
+356,5/22/2023,South,Mumbai,Furniture,Bed,CUST1312,54,Male,5,1549,0.25,5808.75,950.81,Cash
+357,11/1/2023,West,Hyderabad,Grocery,Oil,CUST1914,42,Female,2,3752,0.2,6003.2,2044.51,Net Banking
+358,6/10/2023,North,Delhi,Grocery,Milk,CUST1177,21,Female,5,4579,0.29,16255.45,5609.68,UPI
+359,3/2/2023,East,Bangalore,Clothing,Jacket,CUST1572,51,Female,2,697,0.17,1157.02,281.14,UPI
+360,1/17/2023,East,Kolkata,Clothing,Shirt,CUST1609,23,Female,4,2190,0.02,8584.8,1610.93,Cash
+361,1/22/2023,East,Hyderabad,Furniture,Table,CUST1111,19,Female,2,3748,0.13,6521.52,2332.83,Card
+362,6/16/2023,West,Chennai,Clothing,Dress,CUST1085,29,Female,2,197,0.26,291.56,76.37,Card
+363,11/15/2023,West,Bangalore,Clothing,Shirt,CUST1560,49,Female,4,4766,0.14,16395.04,6302.47,Net Banking
+364,8/2/2023,South,Kolkata,Electronics,Mobile,CUST1654,57,Female,5,4727,0.16,19853.4,3424.17,Card
+365,6/17/2023,South,Kolkata,Furniture,Sofa,CUST1057,45,Female,5,1849,0.05,8782.75,2839.92,Card
+366,2/13/2023,West,Mumbai,Furniture,Bed,CUST1096,59,Female,2,4642,0.17,7705.72,2864.64,UPI
+367,3/30/2023,North,Chennai,Furniture,Chair,CUST1378,36,Female,4,2374,0.03,9211.12,1869.54,Card
+368,1/8/2023,East,Bangalore,Grocery,Snacks,CUST1919,45,Female,5,4502,0.06,21159.4,7278.47,Card
+369,2/16/2023,West,Chennai,Electronics,Laptop,CUST1910,57,Female,1,2311,0.08,2126.12,651.22,Card
+370,12/2/2023,North,Mumbai,Furniture,Sofa,CUST1386,20,Male,2,4663,0.17,7740.58,2710.67,Card
+371,5/9/2023,North,Bangalore,Clothing,Dress,CUST1519,54,Male,3,1998,0.3,4195.8,1501.2,UPI
+372,9/3/2023,South,Chennai,Electronics,TV,CUST1786,49,Female,4,787,0.05,2990.6,801.19,UPI
+373,1/21/2023,South,Mumbai,Electronics,Headphones,CUST1669,30,Female,1,4058,0.29,2881.18,791.38,Net Banking
+374,2/28/2023,East,Chennai,Grocery,Snacks,CUST1246,44,Female,2,1383,0.3,1936.2,205.36,Cash
+375,6/3/2023,South,Kolkata,Furniture,Chair,CUST1381,22,Female,5,1660,0.03,8051,3149.48,UPI
+376,5/14/2023,West,Chennai,Electronics,Laptop,CUST1210,28,Female,3,3647,0.26,8096.34,1249.11,Net Banking
+377,8/4/2023,East,Chennai,Electronics,TV,CUST1225,39,Male,2,3090,0.2,4944,1511.79,UPI
+378,10/4/2023,North,Chennai,Electronics,Headphones,CUST1155,43,Male,3,687,0.1,1854.9,645.27,Card
+379,11/3/2023,South,Chennai,Electronics,Mobile,CUST1942,35,Female,1,1080,0.13,939.6,120.64,UPI
+380,5/30/2023,South,Bangalore,Grocery,Snacks,CUST1272,22,Female,2,1198,0.2,1916.8,409.66,Net Banking
+381,10/16/2023,East,Delhi,Grocery,Oil,CUST1723,33,Female,4,1774,0.25,5322,1723.3,UPI
+382,2/16/2023,East,Hyderabad,Furniture,Sofa,CUST1934,23,Male,2,1189,0.09,2163.98,863.11,UPI
+383,5/8/2023,West,Mumbai,Clothing,Jeans,CUST1190,20,Male,1,4319,0.3,3023.3,1143.41,UPI
+384,7/10/2023,East,Delhi,Grocery,Oil,CUST1532,52,Female,4,541,0.15,1839.4,567.28,Card
+385,2/8/2023,South,Hyderabad,Grocery,Rice,CUST1392,52,Female,1,3800,0.12,3344,575.92,Net Banking
+386,8/7/2023,South,Chennai,Furniture,Bed,CUST1406,44,Female,4,2357,0.2,7542.4,1038.83,Cash
+387,7/9/2023,West,Bangalore,Electronics,Laptop,CUST1546,36,Female,2,2697,0.07,5016.42,1432.27,Cash
+388,9/27/2023,South,Hyderabad,Grocery,Rice,CUST1153,55,Male,3,695,0.01,2064.15,564.68,UPI
+389,10/2/2023,South,Kolkata,Furniture,Sofa,CUST1712,45,Female,1,4278,0.29,3037.38,462.25,Cash
+390,9/8/2023,South,Bangalore,Clothing,Jacket,CUST1635,36,Male,4,2320,0.29,6588.8,1199.15,UPI
+391,6/13/2023,South,Delhi,Furniture,Table,CUST1935,34,Male,4,4593,0.07,17085.96,6218.02,Card
+392,5/22/2023,West,Bangalore,Clothing,Jeans,CUST1202,52,Male,1,2467,0.17,2047.61,644.69,Net Banking
+393,3/9/2023,South,Mumbai,Grocery,Milk,CUST1987,25,Female,1,2481,0.22,1935.18,746.12,Net Banking
+394,1/16/2023,East,Bangalore,Furniture,Chair,CUST1476,47,Male,2,4108,0.3,5751.2,1220.1,Net Banking
+395,9/12/2023,North,Bangalore,Grocery,Rice,CUST1660,22,Female,4,878,0.3,2458.4,352.27,UPI
+396,7/20/2023,East,Hyderabad,Electronics,Headphones,CUST1444,26,Male,4,4040,0.18,13251.2,4843.58,Card
+397,3/6/2023,West,Kolkata,Furniture,Table,CUST1007,40,Female,4,1158,0.25,3474,473.53,Net Banking
+398,5/27/2023,East,Chennai,Grocery,Milk,CUST1025,46,Male,4,3759,0.14,12930.96,4638.89,Net Banking
+399,5/12/2023,North,Kolkata,Electronics,Laptop,CUST1822,24,Male,5,1673,0.18,6859.3,1297.85,Cash
+400,12/8/2023,South,Delhi,Furniture,Bed,CUST1491,19,Male,4,871,0.12,3065.92,777.82,Cash
+401,3/28/2023,East,Kolkata,Grocery,Oil,CUST1933,23,Female,2,2494,0.22,3890.64,965.35,Card
+402,8/6/2023,East,Mumbai,Electronics,Laptop,CUST1282,25,Male,1,3893,0.11,3464.77,894.78,Cash
+403,4/19/2023,East,Kolkata,Furniture,Table,CUST1752,52,Male,3,3551,0.14,9161.58,2426.54,UPI
+404,5/21/2023,North,Kolkata,Electronics,Laptop,CUST1700,55,Male,3,1555,0.08,4291.8,1450.21,UPI
+405,12/19/2023,South,Chennai,Clothing,Dress,CUST1601,56,Female,1,1425,0.01,1410.75,211.62,Cash
+406,12/29/2023,East,Delhi,Grocery,Milk,CUST1821,58,Female,5,3928,0.17,16301.2,4013.35,Card
+407,2/28/2023,North,Delhi,Electronics,Laptop,CUST1934,58,Male,1,4748,0.25,3561,856.49,Card
+408,2/15/2023,South,Delhi,Clothing,Dress,CUST1556,18,Female,5,1617,0.3,5659.5,2040.55,Card
+409,4/19/2023,East,Kolkata,Clothing,Dress,CUST1267,50,Male,4,118,0.12,415.36,53.05,UPI
+410,12/13/2023,West,Chennai,Furniture,Bed,CUST1173,40,Female,5,1087,0.25,4076.25,1628.59,Cash
+411,5/26/2023,West,Hyderabad,Clothing,Jacket,CUST1961,21,Female,5,826,0.01,4088.7,566.37,Net Banking
+412,8/27/2023,South,Delhi,Clothing,Jeans,CUST1411,57,Female,1,2786,0.2,2228.8,829.81,UPI
+413,2/10/2023,South,Kolkata,Electronics,Laptop,CUST1934,19,Male,4,3908,0.12,13756.16,4177.41,Card
+414,9/23/2023,South,Bangalore,Clothing,Jeans,CUST1909,35,Female,5,4300,0.19,17415,2326.44,Cash
+415,9/16/2023,West,Bangalore,Electronics,Laptop,CUST1083,23,Female,3,3289,0.03,9570.99,3385.29,Net Banking
+416,12/16/2023,South,Kolkata,Grocery,Milk,CUST1295,19,Male,3,4824,0.27,10564.56,4015.24,Card
+417,11/17/2023,East,Mumbai,Clothing,Dress,CUST1310,32,Male,1,4108,0.13,3573.96,1113.24,UPI
+418,10/6/2023,West,Kolkata,Electronics,Headphones,CUST1407,55,Male,2,1336,0.24,2030.72,680.67,Card
+419,4/9/2023,South,Delhi,Grocery,Oil,CUST1428,26,Female,4,2424,0.21,7659.84,2075.98,UPI
+420,12/20/2023,South,Mumbai,Grocery,Rice,CUST1799,20,Female,5,2121,0.24,8059.8,2144.5,Net Banking
+421,12/26/2023,South,Hyderabad,Clothing,Jacket,CUST1074,49,Female,3,3343,0.27,7321.17,1981.87,Card
+422,6/16/2023,North,Hyderabad,Furniture,Sofa,CUST1289,45,Female,2,1241,0.21,1960.78,379.37,Net Banking
+423,7/12/2023,East,Hyderabad,Grocery,Oil,CUST1558,37,Female,5,106,0.04,508.8,67.66,Net Banking
+424,5/6/2023,West,Kolkata,Grocery,Milk,CUST1394,55,Female,3,3373,0.19,8196.39,1712.47,UPI
+425,11/17/2023,North,Delhi,Furniture,Sofa,CUST1030,21,Female,5,1029,0.25,3858.75,871.82,Card
+426,12/10/2023,East,Kolkata,Grocery,Oil,CUST1442,20,Female,1,2000,0.29,1420,470.66,Cash
+427,12/29/2023,South,Hyderabad,Furniture,Chair,CUST1447,44,Female,3,4752,0.12,12545.28,4871.35,Cash
+428,9/2/2023,West,Chennai,Electronics,Laptop,CUST1541,59,Female,2,3734,0.01,7393.32,1280.05,Net Banking
+429,12/23/2023,North,Kolkata,Grocery,Snacks,CUST1034,40,Female,5,2269,0.03,11004.65,1245.99,Cash
+430,3/18/2023,East,Delhi,Electronics,TV,CUST1058,34,Male,4,885,0.25,2655,278.23,UPI
+431,6/14/2023,North,Delhi,Electronics,Headphones,CUST1488,30,Female,5,3907,0.1,17581.5,4176.97,UPI
+432,2/11/2023,North,Mumbai,Clothing,Jeans,CUST1353,49,Female,2,464,0.23,714.56,107.12,Cash
+433,1/21/2023,North,Bangalore,Furniture,Chair,CUST1299,28,Male,5,4957,0.02,24289.3,7220.37,Cash
+434,5/5/2023,West,Chennai,Furniture,Sofa,CUST1482,30,Female,4,1622,0.05,6163.6,1387.46,Cash
+435,4/9/2023,North,Delhi,Grocery,Snacks,CUST1763,35,Male,2,2286,0.06,4297.68,710.34,Cash
+436,12/7/2023,West,Hyderabad,Electronics,Headphones,CUST1519,45,Male,1,3835,0.19,3106.35,1054.94,Cash
+437,3/5/2023,South,Kolkata,Clothing,Dress,CUST1090,51,Male,5,756,0.21,2986.2,381.99,Cash
+438,5/29/2023,North,Bangalore,Grocery,Rice,CUST1757,28,Female,3,1945,0.16,4901.4,681.34,Net Banking
+439,1/12/2023,West,Kolkata,Furniture,Bed,CUST1581,34,Male,4,1076,0.2,3443.2,895.11,Net Banking
+440,11/4/2023,South,Hyderabad,Furniture,Sofa,CUST1863,23,Male,3,2294,0.15,5849.7,2175.49,Net Banking
+441,7/22/2023,West,Kolkata,Electronics,Headphones,CUST1703,34,Female,2,1710,0.06,3214.8,551.21,UPI
+442,8/27/2023,East,Hyderabad,Furniture,Table,CUST1771,24,Female,3,3902,0.12,10301.28,1563.16,Net Banking
+443,4/26/2023,East,Delhi,Furniture,Bed,CUST1940,34,Female,5,4358,0.06,20482.6,7521.64,UPI
+444,11/19/2023,North,Kolkata,Furniture,Table,CUST1442,22,Female,1,4035,0.07,3752.55,1149.89,Cash
+445,7/27/2023,East,Delhi,Grocery,Oil,CUST1113,49,Female,5,1042,0.19,4220.1,515.21,Card
+446,11/16/2023,South,Kolkata,Clothing,Jacket,CUST1125,38,Male,5,4878,0.26,18048.6,4364.73,UPI
+447,2/26/2023,South,Hyderabad,Electronics,Laptop,CUST1733,52,Female,4,3852,0.08,14175.36,4774.1,Net Banking
+448,1/30/2023,East,Bangalore,Electronics,Laptop,CUST1646,20,Male,3,2411,0.3,5063.1,1888.82,Card
+449,2/6/2023,West,Delhi,Grocery,Rice,CUST1140,57,Male,1,3463,0.25,2597.25,461.94,Card
+450,6/13/2023,East,Bangalore,Grocery,Oil,CUST1546,19,Female,5,2335,0.2,9340,1589.34,Card
+451,12/24/2023,East,Chennai,Grocery,Oil,CUST1074,52,Female,1,4997,0.02,4897.06,1360.1,Cash
+452,10/17/2023,South,Delhi,Clothing,Dress,CUST1044,36,Female,3,1009,0.24,2300.52,266.16,Net Banking
+453,6/11/2023,East,Bangalore,Electronics,TV,CUST1745,33,Male,3,457,0.09,1247.61,470.28,Cash
+454,10/17/2023,North,Chennai,Grocery,Snacks,CUST1294,20,Male,4,4645,0.21,14678.2,2934.81,Net Banking
+455,11/17/2023,East,Delhi,Electronics,Mobile,CUST1912,58,Female,3,3801,0.1,10262.7,2638.22,UPI
+456,11/9/2023,South,Mumbai,Grocery,Rice,CUST1280,39,Male,5,2928,0.18,12004.8,3513.27,UPI
+457,1/10/2023,East,Delhi,Grocery,Oil,CUST1483,25,Male,1,282,0.15,239.7,63.57,Cash
+458,2/22/2023,West,Chennai,Clothing,Jeans,CUST1407,32,Female,4,759,0.2,2428.8,795.24,Net Banking
+459,1/12/2023,East,Mumbai,Grocery,Rice,CUST1630,48,Female,4,1328,0.28,3824.64,702.98,Net Banking
+460,2/18/2023,West,Mumbai,Clothing,Shirt,CUST1590,48,Male,2,4549,0.22,7096.44,2260.47,Card
+461,10/21/2023,West,Mumbai,Furniture,Chair,CUST1208,40,Male,1,1984,0.01,1964.16,622.93,Cash
+462,6/6/2023,North,Kolkata,Clothing,Dress,CUST1667,28,Male,2,2537,0.07,4718.82,838.67,Card
+463,6/11/2023,East,Kolkata,Furniture,Table,CUST1427,21,Male,1,2724,0.04,2615.04,602.78,Card
+464,4/22/2023,West,Delhi,Grocery,Snacks,CUST1567,29,Female,4,918,0.13,3194.64,405.77,Net Banking
+465,11/12/2023,East,Bangalore,Electronics,Headphones,CUST1986,42,Male,3,3592,0.03,10452.72,4048.47,UPI
+466,4/11/2023,West,Delhi,Clothing,Jacket,CUST1928,41,Male,2,4218,0.08,7761.12,1065.96,Cash
+467,4/4/2023,East,Delhi,Electronics,Headphones,CUST1712,38,Male,4,622,0.29,1766.48,334.28,UPI
+468,10/31/2023,East,Hyderabad,Clothing,Dress,CUST1870,45,Male,4,1416,0.01,5607.36,1637.26,Net Banking
+469,8/15/2023,North,Mumbai,Grocery,Milk,CUST1235,58,Female,1,1478,0.14,1271.08,428.78,UPI
+470,4/10/2023,East,Kolkata,Clothing,Jeans,CUST1030,19,Male,4,4172,0.06,15686.72,3676.64,Card
+471,4/10/2023,East,Hyderabad,Grocery,Oil,CUST1620,40,Female,1,4524,0.26,3347.76,605.45,Net Banking
+472,9/20/2023,South,Kolkata,Electronics,TV,CUST1803,35,Male,5,1872,0.09,8517.6,3057.99,Card
+473,3/6/2023,North,Delhi,Electronics,Laptop,CUST1355,38,Male,3,1039,0.12,2742.96,510.29,UPI
+474,4/28/2023,West,Hyderabad,Electronics,Mobile,CUST1053,27,Male,4,334,0.11,1189.04,454.89,Card
+475,4/12/2023,West,Delhi,Grocery,Oil,CUST1791,19,Female,5,2200,0.21,8690,2845.4,Card
+476,4/21/2023,North,Chennai,Furniture,Bed,CUST1613,34,Female,1,4593,0.12,4041.84,1019.11,Cash
+477,8/16/2023,West,Bangalore,Electronics,Laptop,CUST1377,43,Male,4,3353,0.08,12339.04,2252.41,Card
+478,4/14/2023,East,Hyderabad,Clothing,Dress,CUST1603,29,Male,1,4023,0.14,3459.78,1106.52,Net Banking
+479,8/21/2023,North,Hyderabad,Grocery,Snacks,CUST1673,54,Female,3,3864,0.02,11360.16,3240.21,UPI
+480,9/1/2023,North,Mumbai,Electronics,Laptop,CUST1824,29,Female,5,4860,0.23,18711,4576.93,Cash
+481,11/3/2023,West,Delhi,Grocery,Snacks,CUST1456,49,Male,3,4679,0.16,11791.08,1606.22,Card
+482,2/14/2023,West,Mumbai,Grocery,Oil,CUST1213,21,Female,3,4420,0.18,10873.2,3399.58,Net Banking
+483,7/24/2023,East,Kolkata,Furniture,Sofa,CUST1078,40,Female,3,4096,0.07,11427.84,3725.69,UPI
+484,4/29/2023,West,Delhi,Furniture,Chair,CUST1644,49,Female,4,1341,0.17,4452.12,458.29,Cash
+485,10/5/2023,North,Hyderabad,Clothing,Jacket,CUST1232,34,Female,4,4629,0.19,14997.96,3473.71,Net Banking
+486,10/28/2023,East,Mumbai,Furniture,Sofa,CUST1338,28,Male,3,3370,0.04,9705.6,2069.97,Net Banking
+487,12/17/2023,East,Delhi,Grocery,Snacks,CUST1411,28,Female,5,3864,0.16,16228.8,2078.48,Cash
+488,7/7/2023,North,Hyderabad,Electronics,TV,CUST1568,48,Male,3,1172,0.28,2531.52,756.41,Cash
+489,1/5/2023,South,Bangalore,Clothing,Jacket,CUST1595,58,Male,1,4881,0.02,4783.38,1701.97,Cash
+490,8/14/2023,South,Hyderabad,Grocery,Oil,CUST1014,49,Female,3,2395,0.04,6897.6,776.81,Cash
+491,7/29/2023,East,Mumbai,Electronics,TV,CUST1589,27,Male,5,2600,0.19,10530,1278.36,Net Banking
+492,4/3/2023,South,Mumbai,Furniture,Sofa,CUST1519,50,Male,5,3394,0.01,16800.3,5884.73,Card
+493,12/17/2023,North,Bangalore,Grocery,Oil,CUST1667,23,Male,1,3923,0.3,2746.1,664.09,Net Banking
+494,11/16/2023,East,Kolkata,Electronics,TV,CUST1698,43,Female,1,4775,0.29,3390.25,344.29,Card
+495,11/7/2023,West,Bangalore,Electronics,Headphones,CUST1869,35,Female,1,456,0.13,396.72,88.04,Net Banking
+496,5/5/2023,East,Kolkata,Electronics,Mobile,CUST1353,34,Female,2,1383,0.25,2074.5,374.16,Net Banking
+497,1/8/2023,West,Kolkata,Electronics,Laptop,CUST1140,59,Female,3,344,0.29,732.72,80.51,Net Banking
+498,3/22/2023,East,Delhi,Furniture,Table,CUST1186,37,Female,4,4690,0.07,17446.8,4580.3,Card
+499,2/5/2023,East,Bangalore,Furniture,Sofa,CUST1612,45,Male,2,185,0.18,303.4,45.32,UPI
+500,6/19/2023,East,Delhi,Grocery,Rice,CUST1763,57,Male,4,4109,0.24,12491.36,4823.95,UPI
+501,4/11/2023,North,Bangalore,Clothing,Dress,CUST1154,46,Female,2,3738,0.22,5831.28,2165.62,Cash
+502,9/22/2023,East,Mumbai,Clothing,Shirt,CUST1437,44,Male,3,4047,0.2,9712.8,3539.82,Card
+503,8/29/2023,East,Mumbai,Furniture,Table,CUST1834,37,Male,2,2276,0.01,4506.48,773.75,Cash
+504,12/25/2023,East,Bangalore,Furniture,Chair,CUST1602,43,Female,4,728,0.01,2882.88,1103.25,Cash
+505,6/30/2023,East,Hyderabad,Electronics,Mobile,CUST1090,35,Female,1,4469,0.3,3128.3,888.76,Cash
+506,12/31/2023,East,Kolkata,Clothing,Dress,CUST1403,40,Male,4,3108,0.07,11561.76,3960.16,Card
+507,7/12/2023,North,Kolkata,Grocery,Oil,CUST1400,39,Female,2,4510,0.07,8388.6,3257.47,Cash
+508,9/13/2023,West,Hyderabad,Grocery,Milk,CUST1650,38,Female,2,1872,0.07,3481.92,942.16,Card
+509,7/7/2023,North,Mumbai,Clothing,Jacket,CUST1198,24,Male,3,2735,0.23,6317.85,1991.71,Card
+510,10/6/2023,North,Mumbai,Furniture,Bed,CUST1873,37,Female,2,4747,0.12,8354.72,1429.22,UPI
+511,5/27/2023,West,Bangalore,Electronics,Laptop,CUST1111,56,Female,2,2775,0.06,5217,1687.22,UPI
+512,9/28/2023,North,Chennai,Clothing,Jeans,CUST1994,54,Male,4,3665,0.02,14366.8,5449.29,Cash
+513,7/8/2023,South,Kolkata,Clothing,Jacket,CUST1163,51,Male,1,1490,0.24,1132.4,169.01,Cash
+514,10/17/2023,West,Bangalore,Grocery,Rice,CUST1952,40,Male,5,3707,0.11,16496.15,2516.71,Card
+515,6/30/2023,West,Chennai,Grocery,Snacks,CUST1829,58,Female,5,378,0.28,1360.8,384.36,Cash
+516,11/9/2023,West,Bangalore,Electronics,Headphones,CUST1649,57,Male,1,3932,0.02,3853.36,1122.67,UPI
+517,12/8/2023,East,Kolkata,Furniture,Bed,CUST1814,21,Male,5,3488,0.13,15172.8,2051.05,Net Banking
+518,6/18/2023,South,Mumbai,Clothing,Shirt,CUST1964,30,Male,4,3209,0.22,10012.08,2080.6,Card
+519,4/22/2023,West,Kolkata,Clothing,Dress,CUST1410,31,Female,2,405,0.27,591.3,91.41,UPI
+520,2/8/2023,North,Chennai,Furniture,Table,CUST1527,39,Female,1,4691,0.27,3424.43,541.03,UPI
+521,2/28/2023,West,Chennai,Grocery,Rice,CUST1798,59,Male,5,409,0.18,1676.9,338.22,Cash
+522,5/19/2023,West,Delhi,Electronics,Laptop,CUST1479,27,Female,2,4638,0.08,8533.92,2088.43,Net Banking
+523,6/2/2023,South,Hyderabad,Clothing,Jeans,CUST1634,38,Female,1,2932,0.18,2404.24,747.8,Net Banking
+524,10/19/2023,West,Chennai,Furniture,Table,CUST1080,58,Female,5,2900,0.15,12325,3048.38,Cash
+525,7/17/2023,East,Delhi,Electronics,TV,CUST1000,40,Female,2,4299,0.05,8168.1,3026.52,Card
+526,9/8/2023,East,Hyderabad,Clothing,Jeans,CUST1680,46,Female,2,266,0.26,393.68,116.77,Card
+527,1/3/2023,East,Hyderabad,Clothing,Jeans,CUST1336,29,Male,1,4777,0.1,4299.3,457.63,UPI
+528,9/28/2023,South,Delhi,Grocery,Oil,CUST1099,49,Male,5,2330,0.16,9786,2998.48,UPI
+529,3/19/2023,East,Chennai,Furniture,Table,CUST1825,50,Female,4,468,0.01,1853.28,274.84,Card
+530,12/5/2023,South,Chennai,Clothing,Dress,CUST1901,50,Male,2,4896,0.03,9498.24,2206.5,Net Banking
+531,12/2/2023,West,Kolkata,Electronics,Laptop,CUST1389,57,Male,1,2486,0.13,2162.82,664.74,Net Banking
+532,3/21/2023,South,Chennai,Furniture,Table,CUST1890,27,Male,5,1955,0.21,7722.25,882.34,UPI
+533,1/2/2023,South,Mumbai,Electronics,Laptop,CUST1375,39,Female,1,3831,0.2,3064.8,651.24,Card
+534,4/24/2023,South,Kolkata,Grocery,Milk,CUST1783,36,Female,3,4508,0.24,10278.24,3338.99,UPI
+535,4/23/2023,South,Mumbai,Electronics,Mobile,CUST1011,28,Female,3,4695,0.2,11268,4331.97,UPI
+536,2/26/2023,West,Kolkata,Electronics,TV,CUST1923,31,Male,5,239,0.19,967.95,290.18,Cash
+537,1/19/2023,East,Bangalore,Furniture,Chair,CUST1725,22,Female,5,987,0.24,3750.6,1178.71,Card
+538,10/16/2023,West,Delhi,Electronics,Headphones,CUST1140,37,Female,3,1573,0.06,4435.86,1266.74,Net Banking
+539,1/29/2023,West,Bangalore,Furniture,Table,CUST1791,35,Female,3,227,0.23,524.37,193.8,Cash
+540,6/6/2023,West,Hyderabad,Electronics,TV,CUST1201,34,Male,2,4556,0.29,6469.52,2456.8,Cash
+541,6/18/2023,South,Mumbai,Clothing,Dress,CUST1964,35,Female,2,617,0.16,1036.56,110.2,Card
+542,3/12/2023,South,Bangalore,Furniture,Table,CUST1386,27,Female,2,4620,0.06,8685.6,2120.06,UPI
+543,6/15/2023,East,Kolkata,Electronics,TV,CUST1021,43,Female,2,307,0.19,497.34,116.93,Net Banking
+544,1/20/2023,South,Bangalore,Furniture,Table,CUST1986,58,Female,3,3466,0.05,9878.1,1208.52,Net Banking
+545,11/5/2023,West,Mumbai,Furniture,Table,CUST1801,39,Female,4,4598,0.19,14897.52,3060.67,Cash
+546,12/18/2023,East,Bangalore,Furniture,Bed,CUST1559,23,Male,3,1842,0.17,4586.58,1214.5,Net Banking
+547,3/6/2023,North,Hyderabad,Furniture,Bed,CUST1594,43,Male,1,4295,0.07,3994.35,1595.32,Cash
+548,9/5/2023,East,Delhi,Furniture,Bed,CUST1789,53,Female,1,4857,0.28,3497.04,1391.81,Card
+549,10/28/2023,East,Chennai,Clothing,Shirt,CUST1067,24,Female,2,2561,0.2,4097.6,1137.31,UPI
+550,8/25/2023,East,Hyderabad,Clothing,Jeans,CUST1045,59,Male,1,182,0.29,129.22,36.22,Card
+551,9/1/2023,East,Delhi,Furniture,Chair,CUST1506,38,Male,1,469,0.22,365.82,110.44,UPI
+552,3/14/2023,South,Kolkata,Grocery,Milk,CUST1922,43,Male,1,4562,0.08,4197.04,1131.85,Net Banking
+553,6/19/2023,South,Mumbai,Clothing,Dress,CUST1945,37,Male,3,959,0.18,2359.14,492.34,UPI
+554,4/21/2023,North,Hyderabad,Clothing,Jeans,CUST1479,50,Male,5,3851,0.2,15404,2379.75,Card
+555,7/22/2023,West,Bangalore,Furniture,Table,CUST1060,20,Female,1,4264,0.02,4178.72,529.23,Net Banking
+556,10/31/2023,South,Bangalore,Furniture,Bed,CUST1502,27,Male,2,1284,0.2,2054.4,771.75,Cash
+557,11/15/2023,West,Hyderabad,Furniture,Bed,CUST1588,20,Female,2,1673,0.11,2977.94,750.29,UPI
+558,8/26/2023,East,Kolkata,Clothing,Jacket,CUST1775,59,Female,2,969,0.22,1511.64,270.02,UPI
+559,10/11/2023,South,Mumbai,Furniture,Bed,CUST1864,54,Female,1,2656,0.18,2177.92,519.43,Cash
+560,2/27/2023,South,Chennai,Clothing,Jacket,CUST1362,55,Female,1,1973,0.24,1499.48,395.41,Cash
+561,2/6/2023,South,Chennai,Grocery,Snacks,CUST1334,45,Female,2,779,0.13,1355.46,278.14,Cash
+562,7/4/2023,West,Mumbai,Clothing,Shirt,CUST1204,21,Female,2,162,0.09,294.84,78.67,UPI
+563,11/7/2023,West,Bangalore,Clothing,Dress,CUST1002,31,Male,5,2235,0.28,8046,2964,UPI
+564,5/13/2023,East,Hyderabad,Clothing,Shirt,CUST1713,45,Female,2,220,0.08,404.8,142.55,UPI
+565,3/25/2023,North,Bangalore,Grocery,Oil,CUST1594,52,Male,5,341,0.26,1261.7,196.53,Net Banking
+566,10/10/2023,West,Chennai,Grocery,Oil,CUST1311,59,Female,4,4264,0,17056,2091.61,Net Banking
+567,12/10/2023,North,Kolkata,Furniture,Chair,CUST1152,49,Male,1,376,0.22,293.28,110.57,Cash
+568,11/10/2023,East,Mumbai,Clothing,Dress,CUST1806,33,Female,5,1671,0.19,6767.55,1948.68,Card
+569,4/19/2023,South,Hyderabad,Electronics,Mobile,CUST1546,56,Male,1,1336,0.27,975.28,367.4,Card
+570,3/17/2023,East,Chennai,Grocery,Snacks,CUST1470,33,Male,1,2777,0.24,2110.52,284.26,Cash
+571,6/14/2023,West,Mumbai,Clothing,Shirt,CUST1598,30,Male,3,3042,0.18,7483.32,2633.31,Net Banking
+572,9/4/2023,North,Hyderabad,Electronics,Laptop,CUST1615,38,Female,4,4690,0.15,15946,4323.24,Cash
+573,5/30/2023,East,Bangalore,Electronics,Headphones,CUST1757,50,Male,2,584,0.22,911.04,223.68,Cash
+574,5/2/2023,South,Hyderabad,Electronics,Mobile,CUST1649,53,Male,1,4833,0.05,4591.35,609.47,Card
+575,6/16/2023,North,Mumbai,Electronics,Headphones,CUST1246,36,Female,2,1836,0.06,3451.68,1058.63,Cash
+576,1/19/2023,South,Mumbai,Furniture,Chair,CUST1194,27,Female,4,2510,0.17,8333.2,2293.86,UPI
+577,5/21/2023,West,Mumbai,Grocery,Rice,CUST1757,18,Female,2,548,0.06,1030.24,310.86,Cash
+578,9/2/2023,North,Chennai,Grocery,Oil,CUST1831,46,Male,2,4288,0.16,7203.84,2632.15,UPI
+579,1/7/2023,North,Hyderabad,Grocery,Oil,CUST1313,56,Female,2,4266,0.03,8276.04,1411.56,Cash
+580,1/25/2023,East,Kolkata,Electronics,Laptop,CUST1250,20,Female,5,292,0.01,1445.4,234.4,Net Banking
+581,5/24/2023,North,Chennai,Electronics,Headphones,CUST1024,45,Male,5,3800,0.07,17670,3279.69,UPI
+582,3/27/2023,South,Kolkata,Electronics,TV,CUST1335,58,Female,1,2779,0.23,2139.83,557.39,Card
+583,7/25/2023,West,Kolkata,Electronics,TV,CUST1412,36,Female,3,1487,0.1,4014.9,652.55,UPI
+584,6/30/2023,South,Bangalore,Electronics,TV,CUST1941,47,Female,3,4108,0.26,9119.76,2372.11,Net Banking
+585,7/13/2023,West,Mumbai,Grocery,Milk,CUST1735,25,Female,1,1355,0,1355,427.82,Card
+586,8/8/2023,South,Bangalore,Furniture,Bed,CUST1115,35,Male,4,2898,0.16,9737.28,1067.01,Net Banking
+587,8/9/2023,South,Chennai,Electronics,Laptop,CUST1634,59,Female,2,2704,0.3,3785.6,1251.28,UPI
+588,11/16/2023,West,Mumbai,Furniture,Chair,CUST1039,21,Female,5,2470,0.07,11485.5,3386.43,UPI
+589,12/13/2023,North,Kolkata,Clothing,Dress,CUST1413,19,Male,3,2990,0.2,7176,1344.57,Net Banking
+590,7/26/2023,North,Kolkata,Furniture,Bed,CUST1047,42,Male,1,770,0.24,585.2,98.41,Net Banking
+591,11/14/2023,North,Kolkata,Electronics,TV,CUST1806,49,Male,4,349,0.16,1172.64,285.75,Net Banking
+592,7/11/2023,East,Bangalore,Clothing,Shirt,CUST1043,46,Female,2,3671,0.04,7048.32,1400.17,Cash
+593,8/3/2023,North,Hyderabad,Electronics,TV,CUST1990,20,Female,3,4778,0.2,11467.2,3393.27,Cash
+594,3/3/2023,West,Delhi,Grocery,Milk,CUST1937,29,Male,5,903,0.26,3341.1,793.53,Cash
+595,1/8/2023,North,Bangalore,Furniture,Sofa,CUST1615,57,Male,2,3616,0.21,5713.28,1820.92,Cash
+596,5/18/2023,West,Chennai,Furniture,Sofa,CUST1299,28,Male,5,1054,0.26,3899.8,543.66,UPI
+597,12/12/2023,North,Chennai,Clothing,Dress,CUST1790,35,Female,1,3901,0.21,3081.79,878.8,Cash
+598,7/14/2023,West,Bangalore,Clothing,Shirt,CUST1677,20,Male,1,483,0.16,405.72,97.38,UPI
+599,12/22/2023,South,Kolkata,Furniture,Bed,CUST1902,39,Male,5,4351,0.14,18709.3,5920.8,Card
+600,10/6/2023,North,Kolkata,Grocery,Milk,CUST1886,23,Female,2,3146,0.23,4844.84,743.71,Net Banking
+601,9/14/2023,West,Hyderabad,Furniture,Table,CUST1676,39,Female,4,4040,0.22,12604.8,4472.4,UPI
+602,11/12/2023,East,Hyderabad,Grocery,Rice,CUST1119,23,Female,5,4600,0.27,16790,2563.87,Net Banking
+603,9/12/2023,East,Bangalore,Clothing,Jeans,CUST1924,24,Female,1,2203,0.06,2070.82,508.88,Cash
+604,7/1/2023,South,Mumbai,Electronics,TV,CUST1892,55,Male,5,4425,0.03,21461.25,3768.57,Card
+605,4/1/2023,West,Delhi,Clothing,Dress,CUST1479,27,Female,3,3447,0.27,7548.93,905.33,UPI
+606,9/10/2023,East,Chennai,Electronics,TV,CUST1780,52,Male,3,4560,0.14,11764.8,2690.04,Net Banking
+607,10/31/2023,East,Bangalore,Clothing,Shirt,CUST1500,52,Female,4,2606,0.11,9277.36,1529.64,Cash
+608,7/26/2023,East,Mumbai,Clothing,Jacket,CUST1767,52,Female,2,3604,0.23,5550.16,2155.23,Net Banking
+609,1/25/2023,West,Bangalore,Clothing,Jeans,CUST1067,46,Male,3,4904,0.26,10886.88,2437.78,Cash
+610,6/2/2023,East,Chennai,Clothing,Jacket,CUST1275,36,Male,3,2830,0.2,6792,2434.72,Cash
+611,2/20/2023,South,Mumbai,Clothing,Shirt,CUST1660,29,Female,3,2687,0.16,6771.24,2278.58,Card
+612,7/22/2023,East,Kolkata,Furniture,Bed,CUST1287,28,Female,2,2317,0.21,3660.86,812.9,Net Banking
+613,3/16/2023,North,Delhi,Furniture,Chair,CUST1276,22,Female,5,3061,0.11,13621.45,1919.37,Card
+614,12/5/2023,West,Chennai,Furniture,Bed,CUST1832,24,Female,1,670,0.21,529.3,108.72,Cash
+615,8/30/2023,North,Chennai,Grocery,Oil,CUST1942,34,Male,4,1778,0.06,6685.28,2589.19,Cash
+616,4/22/2023,West,Mumbai,Grocery,Oil,CUST1928,32,Male,5,2577,0.05,12240.75,4826,UPI
+617,5/11/2023,East,Chennai,Clothing,Jacket,CUST1155,43,Male,4,1419,0.24,4313.76,481.95,Card
+618,11/18/2023,West,Delhi,Grocery,Rice,CUST1803,43,Male,5,3120,0.18,12792,1917.04,Net Banking
+619,1/8/2023,North,Delhi,Grocery,Oil,CUST1028,57,Male,3,3023,0.11,8071.41,3102.68,Card
+620,11/14/2023,South,Delhi,Grocery,Rice,CUST1746,24,Male,2,4835,0.18,7929.4,2585.89,Net Banking
+621,6/30/2023,West,Kolkata,Furniture,Table,CUST1214,41,Female,5,1054,0.27,3847.1,1311.88,Card
+622,8/27/2023,North,Kolkata,Clothing,Jacket,CUST1222,25,Female,1,4374,0.01,4330.26,566.36,Card
+623,11/5/2023,West,Kolkata,Clothing,Dress,CUST1630,29,Male,5,3905,0.04,18744,5543.5,Cash
+624,1/11/2023,East,Chennai,Furniture,Chair,CUST1097,24,Male,1,3956,0.26,2927.44,347.22,UPI
+625,12/24/2023,North,Delhi,Grocery,Milk,CUST1727,27,Female,4,2717,0.07,10107.24,2620.48,Net Banking
+626,5/6/2023,East,Kolkata,Grocery,Rice,CUST1807,25,Female,4,4978,0.04,19115.52,2065.95,Cash
+627,7/11/2023,East,Kolkata,Grocery,Snacks,CUST1903,46,Female,4,2203,0.05,8371.4,2828.01,Card
+628,5/5/2023,East,Kolkata,Furniture,Chair,CUST1012,49,Male,4,749,0.08,2756.32,808.72,UPI
+629,12/4/2023,West,Kolkata,Electronics,Mobile,CUST1959,55,Female,4,2248,0.05,8542.4,1115.03,UPI
+630,4/6/2023,East,Chennai,Furniture,Sofa,CUST1189,22,Male,2,4226,0.09,7691.32,1776.52,Net Banking
+631,4/22/2023,West,Bangalore,Electronics,Headphones,CUST1827,40,Male,2,1547,0.09,2815.54,862.94,Net Banking
+632,11/9/2023,East,Hyderabad,Grocery,Oil,CUST1438,59,Female,1,3236,0.14,2782.96,857.32,Card
+633,6/25/2023,West,Kolkata,Clothing,Jeans,CUST1529,29,Male,5,325,0.14,1397.5,255.04,UPI
+634,6/16/2023,East,Bangalore,Furniture,Sofa,CUST1524,34,Male,1,2253,0.09,2050.23,489.17,Card
+635,3/23/2023,West,Kolkata,Clothing,Dress,CUST1844,33,Male,1,4235,0.11,3769.15,1286.98,Cash
+636,11/23/2023,North,Kolkata,Electronics,TV,CUST1760,52,Male,1,546,0.17,453.18,87.87,Net Banking
+637,12/11/2023,West,Bangalore,Electronics,Headphones,CUST1223,57,Female,2,3059,0.1,5506.2,1452.55,Net Banking
+638,3/18/2023,North,Delhi,Grocery,Rice,CUST1187,43,Male,5,3024,0.29,10735.2,3728.9,Cash
+639,7/6/2023,East,Mumbai,Grocery,Rice,CUST1485,55,Male,4,1674,0.28,4821.12,855.84,UPI
+640,8/25/2023,North,Delhi,Grocery,Snacks,CUST1757,51,Female,4,152,0.08,559.36,187.04,Card
+641,7/25/2023,South,Hyderabad,Furniture,Table,CUST1543,52,Female,5,2394,0.17,9935.1,3547.82,Net Banking
+642,11/11/2023,North,Delhi,Electronics,TV,CUST1798,46,Female,2,4582,0.27,6689.72,1998.59,Net Banking
+643,9/11/2023,West,Bangalore,Furniture,Table,CUST1724,37,Female,5,407,0.2,1628,543.51,UPI
+644,10/3/2023,North,Chennai,Furniture,Bed,CUST1499,30,Male,4,4720,0.19,15292.8,3363.12,UPI
+645,9/30/2023,South,Chennai,Furniture,Table,CUST1919,25,Female,1,2073,0.08,1907.16,445.7,Net Banking
+646,11/11/2023,North,Delhi,Clothing,Shirt,CUST1473,30,Female,2,4304,0.28,6197.76,1345.02,Card
+647,1/2/2023,East,Chennai,Grocery,Rice,CUST1757,35,Male,5,1620,0.23,6237,1180.37,Cash
+648,8/9/2023,West,Kolkata,Furniture,Chair,CUST1237,47,Female,1,3457,0.3,2419.9,409.36,UPI
+649,4/22/2023,West,Bangalore,Grocery,Oil,CUST1566,34,Male,2,2928,0.2,4684.8,801.72,Cash
+650,2/22/2023,West,Mumbai,Electronics,Laptop,CUST1470,47,Female,3,242,0.27,529.98,130.93,Cash
+651,1/1/2023,North,Delhi,Clothing,Shirt,CUST1043,52,Female,1,1948,0.13,1694.76,251.24,Cash
+652,8/25/2023,South,Delhi,Electronics,Mobile,CUST1973,25,Female,3,3891,0.07,10855.89,4180.77,Net Banking
+653,5/19/2023,South,Chennai,Electronics,Laptop,CUST1614,48,Female,3,1444,0.18,3552.24,1207.93,Card
+654,12/7/2023,East,Chennai,Electronics,Mobile,CUST1423,40,Female,1,1604,0.07,1491.72,293.54,Net Banking
+655,11/6/2023,South,Kolkata,Furniture,Bed,CUST1711,58,Male,2,4809,0.01,9521.82,1446.77,UPI
+656,5/29/2023,North,Bangalore,Furniture,Bed,CUST1114,19,Female,1,4422,0.13,3847.14,1201.25,UPI
+657,5/27/2023,South,Mumbai,Clothing,Jeans,CUST1183,55,Male,3,970,0.08,2677.2,579.78,UPI
+658,9/1/2023,West,Mumbai,Grocery,Snacks,CUST1579,39,Male,4,4133,0.19,13390.92,2947.5,UPI
+659,10/15/2023,East,Kolkata,Clothing,Dress,CUST1976,58,Female,2,3847,0.29,5462.74,2168.24,UPI
+660,12/21/2023,West,Chennai,Furniture,Chair,CUST1749,57,Female,4,2847,0.3,7971.6,2442.79,Card
+661,10/23/2023,West,Bangalore,Furniture,Sofa,CUST1608,29,Male,3,4991,0.08,13775.16,4091,UPI
+662,7/3/2023,East,Mumbai,Furniture,Chair,CUST1587,48,Male,2,4105,0.02,8045.8,2995.39,Card
+663,4/28/2023,North,Delhi,Clothing,Shirt,CUST1072,43,Male,5,636,0.27,2321.4,796.66,UPI
+664,7/14/2023,South,Hyderabad,Electronics,TV,CUST1953,44,Female,4,3181,0.05,12087.8,3768.01,Net Banking
+665,2/13/2023,West,Hyderabad,Furniture,Sofa,CUST1281,51,Male,1,370,0.14,318.2,44.71,Net Banking
+666,7/2/2023,North,Chennai,Furniture,Table,CUST1367,18,Female,2,4335,0.27,6329.1,1935.67,Net Banking
+667,12/6/2023,West,Hyderabad,Clothing,Jacket,CUST1432,39,Male,1,1701,0.06,1598.94,475.47,Card
+668,5/23/2023,South,Delhi,Furniture,Sofa,CUST1249,32,Male,5,2144,0.16,9004.8,2824.05,Cash
+669,4/23/2023,East,Bangalore,Clothing,Jacket,CUST1874,40,Female,1,1083,0.03,1050.51,247.91,Card
+670,8/2/2023,East,Kolkata,Electronics,Mobile,CUST1871,40,Female,4,190,0.28,547.2,84.11,Net Banking
+671,7/19/2023,South,Bangalore,Grocery,Rice,CUST1502,28,Male,3,3723,0.12,9828.72,2967.9,UPI
+672,11/7/2023,North,Delhi,Furniture,Table,CUST1548,55,Female,5,4387,0.03,21276.95,4828.65,UPI
+673,12/26/2023,West,Mumbai,Furniture,Chair,CUST1699,47,Male,5,3368,0.02,16503.2,3656.21,Cash
+674,7/24/2023,North,Delhi,Clothing,Jacket,CUST1890,25,Male,3,2111,0.07,5889.69,813.17,Card
+675,8/11/2023,North,Kolkata,Furniture,Bed,CUST1697,38,Male,5,831,0.3,2908.5,936.82,Cash
+676,10/5/2023,West,Kolkata,Electronics,Mobile,CUST1551,54,Female,2,1687,0.01,3340.26,811.43,Card
+677,12/1/2023,West,Mumbai,Electronics,TV,CUST1208,39,Female,1,4004,0.04,3843.84,743.29,Card
+678,9/30/2023,East,Delhi,Clothing,Jacket,CUST1528,43,Female,3,2128,0.24,4851.84,1710.32,Net Banking
+679,9/19/2023,South,Chennai,Furniture,Bed,CUST1162,31,Female,5,756,0.25,2835,829.24,Net Banking
+680,8/29/2023,West,Kolkata,Electronics,Laptop,CUST1414,52,Female,5,4850,0.25,18187.5,5176.47,Card
+681,8/5/2023,North,Hyderabad,Furniture,Table,CUST1929,43,Female,4,4201,0.2,13443.2,5068.48,Card
+682,8/30/2023,South,Bangalore,Clothing,Jeans,CUST1145,21,Female,5,1085,0.12,4774,1678.7,Card
+683,2/13/2023,North,Bangalore,Clothing,Jacket,CUST1886,32,Male,1,4721,0.25,3540.75,1178.38,Card
+684,12/3/2023,South,Hyderabad,Clothing,Jeans,CUST1418,36,Male,3,4770,0.28,10303.2,2075.75,Card
+685,2/13/2023,South,Mumbai,Grocery,Milk,CUST1871,41,Male,4,1735,0.2,5552,654.83,Card
+686,12/21/2023,North,Mumbai,Electronics,Laptop,CUST1799,53,Male,5,4340,0.27,15841,1763.44,Cash
+687,8/27/2023,East,Chennai,Clothing,Jacket,CUST1835,57,Female,5,4137,0.2,16548,3351.83,Card
+688,12/12/2023,North,Hyderabad,Furniture,Chair,CUST1283,49,Male,3,4927,0.27,10790.13,3810.16,Cash
+689,6/20/2023,West,Mumbai,Electronics,Mobile,CUST1158,26,Male,5,4966,0.07,23091.9,5756.16,UPI
+690,4/13/2023,North,Chennai,Grocery,Snacks,CUST1124,33,Female,5,1061,0.27,3872.65,463.59,Cash
+691,7/16/2023,North,Kolkata,Grocery,Milk,CUST1884,46,Male,3,2945,0.23,6802.95,1636.87,Card
+692,12/16/2023,North,Delhi,Furniture,Table,CUST1901,21,Female,4,3781,0.25,11343,4038.89,UPI
+693,9/28/2023,South,Mumbai,Furniture,Sofa,CUST1423,49,Male,5,3066,0.15,13030.5,3516.53,UPI
+694,11/19/2023,North,Bangalore,Furniture,Sofa,CUST1105,28,Female,1,1864,0.27,1360.72,456.44,UPI
+695,8/2/2023,South,Kolkata,Electronics,Mobile,CUST1503,23,Female,3,1575,0.07,4394.25,1479.69,Net Banking
+696,9/24/2023,North,Mumbai,Furniture,Bed,CUST1972,59,Male,3,1316,0.12,3474.24,573.29,UPI
+697,4/23/2023,South,Hyderabad,Grocery,Milk,CUST1250,58,Male,3,2223,0.2,5335.2,1032.82,Card
+698,3/10/2023,North,Bangalore,Grocery,Rice,CUST1046,40,Female,1,1914,0.02,1875.72,251.09,UPI
+699,1/25/2023,West,Mumbai,Furniture,Bed,CUST1585,31,Male,1,3071,0.04,2948.16,679.18,Card
+700,5/7/2023,South,Chennai,Electronics,TV,CUST1936,42,Male,2,1116,0.21,1763.28,525.17,Card
+701,1/11/2023,West,Mumbai,Clothing,Dress,CUST1596,38,Female,3,215,0.1,580.5,218.82,UPI
+702,3/5/2023,South,Delhi,Grocery,Oil,CUST1257,29,Male,5,3050,0.04,14640,4839.36,Net Banking
+703,8/29/2023,West,Bangalore,Grocery,Oil,CUST1754,35,Female,1,1077,0.02,1055.46,409.71,Net Banking
+704,12/30/2023,North,Chennai,Grocery,Snacks,CUST1490,59,Female,3,1112,0.22,2602.08,301.77,Card
+705,11/11/2023,East,Bangalore,Furniture,Sofa,CUST1922,44,Male,4,1456,0.17,4833.92,1924.49,Cash
+706,3/4/2023,South,Kolkata,Furniture,Table,CUST1252,34,Female,4,2159,0.12,7599.68,2667.48,Net Banking
+707,10/19/2023,South,Bangalore,Clothing,Jeans,CUST1795,46,Female,4,3128,0.03,12136.64,4527.27,Net Banking
+708,3/12/2023,South,Kolkata,Clothing,Jeans,CUST1179,54,Male,4,1025,0.08,3772,1133.11,Card
+709,10/2/2023,West,Mumbai,Electronics,Headphones,CUST1460,59,Male,5,4390,0.15,18657.5,3579.6,Cash
+710,10/12/2023,North,Mumbai,Clothing,Dress,CUST1659,42,Male,5,4259,0.09,19378.45,2456.4,Card
+711,12/22/2023,South,Hyderabad,Furniture,Bed,CUST1029,36,Male,4,4069,0.12,14322.88,2808.59,Net Banking
+712,1/22/2023,South,Mumbai,Furniture,Sofa,CUST1691,53,Female,2,3598,0.19,5828.76,1877.16,UPI
+713,2/19/2023,North,Delhi,Grocery,Rice,CUST1849,22,Male,1,3506,0.25,2629.5,520.83,Cash
+714,11/20/2023,North,Kolkata,Grocery,Oil,CUST1988,51,Female,4,1978,0.22,6171.36,1801.16,Cash
+715,6/8/2023,South,Delhi,Electronics,Headphones,CUST1383,52,Female,5,4813,0.15,20455.25,7462.4,Card
+716,6/30/2023,East,Hyderabad,Clothing,Dress,CUST1287,19,Female,1,1976,0.26,1462.24,457.93,UPI
+717,9/30/2023,West,Kolkata,Clothing,Jacket,CUST1863,33,Male,3,2007,0.13,5238.27,1122.92,Net Banking
+718,12/7/2023,North,Bangalore,Electronics,TV,CUST1003,24,Male,5,1026,0.21,4052.7,620.14,Cash
+719,8/13/2023,East,Kolkata,Clothing,Jacket,CUST1970,45,Female,2,4050,0.25,6075,2356.85,Card
+720,4/16/2023,South,Hyderabad,Clothing,Jeans,CUST1791,21,Female,1,4754,0.06,4468.76,761.44,Net Banking
+721,6/20/2023,North,Chennai,Furniture,Table,CUST1330,20,Male,4,2678,0.04,10283.52,1092.67,Cash
+722,11/1/2023,East,Kolkata,Furniture,Sofa,CUST1655,19,Male,4,294,0.2,940.8,208.6,Card
+723,4/6/2023,West,Hyderabad,Grocery,Milk,CUST1380,27,Male,4,2177,0.11,7750.12,2766.65,Card
+724,12/27/2023,South,Hyderabad,Furniture,Bed,CUST1373,59,Male,4,397,0.07,1476.84,313.68,Card
+725,8/30/2023,South,Delhi,Furniture,Chair,CUST1362,44,Female,5,1369,0.04,6571.2,1433.84,Net Banking
+726,11/18/2023,South,Bangalore,Furniture,Sofa,CUST1011,57,Female,1,4531,0.1,4077.9,1045.74,Card
+727,8/14/2023,North,Mumbai,Clothing,Dress,CUST1687,37,Male,1,4783,0.01,4735.17,1009.45,Cash
+728,6/8/2023,South,Mumbai,Clothing,Jeans,CUST1568,31,Male,4,4773,0.13,16610.04,3912.6,UPI
+729,5/5/2023,East,Hyderabad,Electronics,Mobile,CUST1870,41,Male,2,626,0.27,913.96,207.41,Cash
+730,8/4/2023,West,Kolkata,Clothing,Dress,CUST1909,51,Female,5,4077,0.16,17123.4,2535.19,Net Banking
+731,6/22/2023,West,Chennai,Clothing,Shirt,CUST1419,39,Female,2,4527,0.05,8601.3,1243.07,Cash
+732,6/13/2023,West,Chennai,Electronics,TV,CUST1147,35,Male,5,4635,0.24,17613,3471.38,Card
+733,7/6/2023,South,Chennai,Grocery,Rice,CUST1964,21,Male,3,762,0,2286,727.89,Card
+734,7/25/2023,East,Bangalore,Furniture,Bed,CUST1709,29,Female,5,3275,0.04,15720,4201.8,Card
+735,1/15/2023,West,Mumbai,Furniture,Bed,CUST1555,34,Male,1,3313,0.04,3180.48,1151.71,UPI
+736,12/9/2023,North,Mumbai,Clothing,Jacket,CUST1615,31,Male,1,4751,0.19,3848.31,1419.91,Net Banking
+737,3/24/2023,South,Chennai,Grocery,Milk,CUST1109,40,Female,3,964,0,2892,876.8,Net Banking
+738,4/5/2023,West,Delhi,Grocery,Snacks,CUST1789,19,Male,5,2438,0.27,8898.7,2082.89,Card
+739,5/9/2023,North,Kolkata,Furniture,Chair,CUST1723,40,Female,5,4703,0.07,21868.95,6189.57,Cash
+740,2/23/2023,South,Mumbai,Furniture,Sofa,CUST1729,33,Female,3,4178,0.29,8899.14,2479.14,UPI
+741,2/27/2023,West,Bangalore,Grocery,Oil,CUST1436,18,Female,3,3703,0.17,9220.47,1440.77,Card
+742,1/29/2023,South,Mumbai,Grocery,Rice,CUST1111,50,Female,1,4901,0.2,3920.8,765.9,UPI
+743,4/19/2023,South,Delhi,Clothing,Dress,CUST1275,26,Male,3,2856,0.17,7111.44,1365.21,Cash
+744,6/22/2023,East,Mumbai,Furniture,Sofa,CUST1170,30,Female,4,342,0.15,1162.8,210.38,Card
+745,12/31/2023,West,Kolkata,Grocery,Oil,CUST1853,36,Male,5,3612,0.09,16434.6,4389.52,Net Banking
+746,1/26/2023,West,Chennai,Electronics,Mobile,CUST1918,30,Male,4,3371,0.29,9573.64,3519.14,UPI
+747,2/8/2023,West,Bangalore,Electronics,Headphones,CUST1434,29,Male,4,4332,0.03,16808.16,6435.71,Net Banking
+748,4/8/2023,North,Delhi,Electronics,Mobile,CUST1426,36,Male,3,2813,0.09,7679.49,923.36,UPI
+749,12/21/2023,West,Hyderabad,Grocery,Snacks,CUST1231,25,Female,4,4937,0.2,15798.4,5589.86,Card
+750,12/25/2023,South,Mumbai,Furniture,Sofa,CUST1316,21,Male,3,4057,0.27,8884.83,3354.99,Card
+751,4/27/2023,North,Hyderabad,Electronics,Headphones,CUST1420,41,Male,1,1993,0.17,1654.19,483.71,Card
+752,4/26/2023,South,Chennai,Furniture,Sofa,CUST1629,21,Male,1,1392,0.23,1071.84,202.97,UPI
+753,8/3/2023,North,Delhi,Grocery,Rice,CUST1428,40,Female,3,465,0.09,1269.45,366.86,UPI
+754,2/23/2023,North,Bangalore,Electronics,Laptop,CUST1540,36,Male,2,846,0.29,1201.32,344.36,Card
+755,9/30/2023,East,Delhi,Clothing,Jeans,CUST1962,33,Female,1,2929,0.05,2782.55,563.66,UPI
+756,8/5/2023,West,Delhi,Clothing,Dress,CUST1946,55,Female,4,3264,0.26,9661.44,2554.23,Card
+757,9/1/2023,South,Bangalore,Furniture,Chair,CUST1505,55,Female,2,606,0.2,969.6,259.26,UPI
+758,6/18/2023,West,Hyderabad,Furniture,Sofa,CUST1329,27,Male,1,3690,0.19,2988.9,339.63,Cash
+759,11/4/2023,East,Mumbai,Clothing,Jeans,CUST1672,18,Female,1,490,0.16,411.6,150.91,Cash
+760,8/6/2023,West,Kolkata,Clothing,Jacket,CUST1259,18,Female,4,1311,0.05,4981.8,895.18,Cash
+761,10/19/2023,North,Mumbai,Clothing,Shirt,CUST1945,44,Male,2,4652,0.03,9024.88,3294.59,Cash
+762,9/8/2023,East,Hyderabad,Clothing,Dress,CUST1186,48,Female,1,607,0.26,449.18,104.43,UPI
+763,2/8/2023,West,Chennai,Electronics,TV,CUST1488,21,Female,4,4616,0.02,18094.72,2137.52,Cash
+764,3/31/2023,West,Mumbai,Grocery,Milk,CUST1692,24,Female,3,2255,0.27,4938.45,1442.33,Card
+765,3/31/2023,South,Kolkata,Furniture,Table,CUST1748,23,Male,5,356,0.1,1602,166.09,UPI
+766,4/5/2023,North,Kolkata,Clothing,Shirt,CUST1765,54,Male,4,1835,0.24,5578.4,1445.61,UPI
+767,12/16/2023,East,Hyderabad,Grocery,Milk,CUST1154,56,Female,1,2180,0.04,2092.8,343.68,Cash
+768,6/10/2023,West,Bangalore,Furniture,Sofa,CUST1746,32,Male,1,1369,0.03,1327.93,206.74,Net Banking
+769,5/15/2023,West,Bangalore,Clothing,Jeans,CUST1682,35,Male,2,4056,0.03,7868.64,2847.43,Cash
+770,4/5/2023,North,Delhi,Grocery,Snacks,CUST1377,28,Male,4,521,0.06,1958.96,523.49,Card
+771,4/3/2023,North,Mumbai,Electronics,Headphones,CUST1983,39,Female,4,990,0.18,3247.2,954.9,Net Banking
+772,7/4/2023,West,Kolkata,Furniture,Sofa,CUST1084,33,Male,2,3343,0.28,4813.92,1252.41,Card
+773,9/22/2023,North,Hyderabad,Furniture,Bed,CUST1953,39,Male,4,323,0.07,1201.56,255.1,Cash
+774,11/26/2023,South,Hyderabad,Clothing,Shirt,CUST1250,56,Female,5,2874,0.24,10921.2,3440.08,Card
+775,12/5/2023,South,Delhi,Furniture,Bed,CUST1777,45,Female,2,3954,0.19,6405.48,2538.48,UPI
+776,3/18/2023,West,Bangalore,Furniture,Bed,CUST1348,36,Female,5,134,0.02,656.6,184.28,Card
+777,6/24/2023,South,Bangalore,Furniture,Bed,CUST1899,38,Male,3,1003,0.08,2768.28,946.06,Net Banking
+778,7/14/2023,North,Delhi,Electronics,Mobile,CUST1495,26,Male,3,656,0.17,1633.44,398.34,UPI
+779,8/14/2023,West,Chennai,Grocery,Snacks,CUST1424,39,Female,4,1116,0.28,3214.08,535.65,Card
+780,4/20/2023,East,Kolkata,Furniture,Sofa,CUST1711,42,Female,1,1551,0.01,1535.49,178.44,Cash
+781,11/30/2023,South,Delhi,Clothing,Dress,CUST1936,53,Male,2,3636,0.24,5526.72,955.97,UPI
+782,1/25/2023,North,Kolkata,Clothing,Jeans,CUST1529,30,Male,1,3962,0.3,2773.4,540,Cash
+783,11/15/2023,South,Mumbai,Clothing,Shirt,CUST1440,45,Male,3,1969,0.09,5375.37,1065.84,Net Banking
+784,8/20/2023,West,Hyderabad,Grocery,Milk,CUST1991,37,Male,3,1179,0.12,3112.56,787.81,Card
+785,11/19/2023,East,Kolkata,Grocery,Milk,CUST1921,25,Male,4,2628,0.01,10406.88,1076.47,Net Banking
+786,12/4/2023,East,Mumbai,Grocery,Milk,CUST1366,35,Male,5,3440,0.05,16340,6286.12,UPI
+787,11/15/2023,North,Hyderabad,Furniture,Bed,CUST1587,30,Male,2,4141,0.16,6956.88,1791.21,Net Banking
+788,2/4/2023,West,Kolkata,Electronics,Headphones,CUST1998,43,Female,2,3282,0.1,5907.6,976.36,Cash
+789,8/2/2023,East,Chennai,Electronics,Mobile,CUST1662,36,Female,5,1551,0.15,6591.75,1389.44,Cash
+790,10/16/2023,East,Delhi,Grocery,Rice,CUST1914,45,Male,2,4634,0.08,8526.56,1539.31,Card
+791,4/9/2023,South,Hyderabad,Clothing,Jeans,CUST1609,52,Male,3,4887,0.26,10849.14,4145.62,Cash
+792,1/28/2023,East,Kolkata,Grocery,Oil,CUST1418,25,Female,5,1466,0.17,6083.9,2325.55,Cash
+793,8/20/2023,East,Bangalore,Electronics,Mobile,CUST1084,42,Male,4,1562,0.28,4498.56,612.34,Cash
+794,12/9/2023,West,Hyderabad,Clothing,Shirt,CUST1938,40,Male,1,2212,0.11,1968.68,608.62,Cash
+795,11/9/2023,South,Bangalore,Furniture,Table,CUST1614,40,Female,5,590,0.1,2655,867.81,Cash
+796,6/17/2023,West,Hyderabad,Furniture,Bed,CUST1434,59,Male,3,3087,0.06,8705.34,1543.62,Cash
+797,9/2/2023,South,Kolkata,Grocery,Milk,CUST1108,48,Female,2,2487,0.21,3929.46,1182.11,Card
+798,12/9/2023,East,Bangalore,Electronics,Mobile,CUST1659,54,Male,5,4491,0.18,18413.1,4668.58,Card
+799,1/25/2023,South,Mumbai,Electronics,Mobile,CUST1057,58,Male,5,1727,0.18,7080.7,1741.06,Card
+800,3/16/2023,South,Delhi,Clothing,Shirt,CUST1653,19,Male,3,2396,0.07,6684.84,2490.82,Net Banking
+801,8/29/2023,North,Mumbai,Grocery,Snacks,CUST1883,41,Male,3,1478,0.02,4345.32,1697.81,Net Banking
+802,5/6/2023,South,Hyderabad,Electronics,TV,CUST1490,51,Female,5,1158,0.27,4226.7,1441.78,Net Banking
+803,1/25/2023,East,Hyderabad,Furniture,Sofa,CUST1527,26,Male,1,1861,0.19,1507.41,237.39,Card
+804,12/26/2023,West,Hyderabad,Grocery,Rice,CUST1438,35,Female,1,4086,0.05,3881.7,1341.7,Card
+805,5/2/2023,West,Delhi,Furniture,Bed,CUST1069,49,Male,2,444,0.17,737.04,164.8,UPI
+806,1/30/2023,West,Kolkata,Clothing,Shirt,CUST1755,35,Female,1,1614,0.03,1565.58,545.53,Net Banking
+807,1/15/2023,North,Chennai,Electronics,Laptop,CUST1515,57,Female,4,2747,0.12,9669.44,1512.69,Net Banking
+808,9/29/2023,South,Delhi,Electronics,Headphones,CUST1142,52,Male,1,2768,0.24,2103.68,252.81,Cash
+809,9/15/2023,South,Kolkata,Grocery,Oil,CUST1604,30,Male,1,3432,0.17,2848.56,572.82,UPI
+810,7/10/2023,North,Mumbai,Grocery,Milk,CUST1365,26,Male,4,3360,0.09,12230.4,1664.24,Cash
+811,6/13/2023,South,Delhi,Electronics,Laptop,CUST1375,30,Female,5,2414,0.07,11225.1,4024.9,Cash
+812,11/4/2023,East,Bangalore,Electronics,Mobile,CUST1198,19,Female,4,648,0.07,2410.56,416.03,Net Banking
+813,12/7/2023,East,Hyderabad,Furniture,Sofa,CUST1150,46,Male,4,890,0.19,2883.6,458.13,Net Banking
+814,10/14/2023,West,Hyderabad,Grocery,Oil,CUST1433,37,Female,2,278,0.27,405.88,143.92,Net Banking
+815,5/2/2023,East,Delhi,Clothing,Shirt,CUST1870,45,Female,4,4404,0.05,16735.2,1848.19,Net Banking
+816,3/23/2023,East,Mumbai,Clothing,Jeans,CUST1586,37,Female,2,3546,0.15,6028.2,1846.7,UPI
+817,11/14/2023,South,Mumbai,Clothing,Jeans,CUST1143,41,Male,5,1950,0,9750,2369.03,Cash
+818,2/4/2023,East,Delhi,Furniture,Chair,CUST1182,31,Female,1,2471,0.24,1877.96,568.8,Net Banking
+819,11/1/2023,East,Hyderabad,Grocery,Rice,CUST1984,33,Male,1,3017,0.19,2443.77,958.76,Net Banking
+820,3/24/2023,South,Hyderabad,Furniture,Chair,CUST1553,34,Male,3,3755,0.02,11039.7,2428.84,Card
+821,2/5/2023,South,Kolkata,Clothing,Jacket,CUST1920,23,Male,5,1072,0.26,3966.4,652.37,Net Banking
+822,12/3/2023,East,Chennai,Clothing,Jeans,CUST1685,41,Male,2,2281,0.2,3649.6,1096.76,Net Banking
+823,3/16/2023,South,Delhi,Grocery,Snacks,CUST1165,31,Female,3,3554,0.04,10235.52,3135.97,Card
+824,8/10/2023,South,Delhi,Clothing,Jeans,CUST1826,25,Female,3,787,0.1,2124.9,427.75,UPI
+825,11/23/2023,East,Chennai,Clothing,Jacket,CUST1904,18,Female,3,1911,0.09,5217.03,860.99,Net Banking
+826,2/4/2023,South,Delhi,Electronics,Headphones,CUST1378,20,Female,5,290,0.02,1421,292.65,Card
+827,8/18/2023,North,Bangalore,Clothing,Jeans,CUST1966,40,Male,5,715,0.26,2645.5,296.71,Card
+828,7/6/2023,East,Kolkata,Clothing,Shirt,CUST1382,34,Male,1,789,0.12,694.32,157.37,Cash
+829,6/24/2023,North,Delhi,Electronics,Laptop,CUST1445,52,Male,3,3603,0.25,8106.75,1225.18,Net Banking
+830,4/5/2023,West,Kolkata,Furniture,Chair,CUST1784,41,Female,4,546,0.21,1725.36,212.81,Net Banking
+831,3/20/2023,West,Delhi,Electronics,TV,CUST1581,44,Female,4,1173,0.09,4269.72,1290.17,Cash
+832,2/16/2023,South,Chennai,Grocery,Snacks,CUST1972,58,Male,2,2394,0.08,4404.96,1433.21,Cash
+833,9/13/2023,West,Chennai,Grocery,Oil,CUST1221,30,Male,2,1083,0.29,1537.86,346.34,Net Banking
+834,12/15/2023,West,Chennai,Electronics,TV,CUST1097,35,Male,1,645,0.11,574.05,168.11,UPI
+835,1/14/2023,West,Mumbai,Furniture,Bed,CUST1391,44,Female,5,4098,0.04,19670.4,5414.11,Net Banking
+836,9/2/2023,South,Hyderabad,Furniture,Table,CUST1021,52,Male,2,3739,0.16,6281.52,1630.72,Net Banking
+837,12/2/2023,West,Mumbai,Electronics,Mobile,CUST1441,19,Female,5,2781,0.2,11124,3991.2,Net Banking
+838,3/22/2023,North,Chennai,Clothing,Dress,CUST1998,42,Male,4,696,0.2,2227.2,392.19,Net Banking
+839,6/14/2023,North,Bangalore,Electronics,Headphones,CUST1487,26,Male,5,3831,0,19155,5498.93,UPI
+840,4/10/2023,West,Bangalore,Furniture,Chair,CUST1341,39,Female,5,1549,0.07,7202.85,2880.65,Net Banking
+841,4/7/2023,East,Kolkata,Furniture,Chair,CUST1529,24,Female,2,1562,0.23,2405.48,433.33,Cash
+842,3/23/2023,North,Mumbai,Electronics,Laptop,CUST1282,49,Male,1,612,0.04,587.52,144.7,UPI
+843,7/7/2023,North,Chennai,Electronics,Mobile,CUST1581,33,Male,1,2431,0.07,2260.83,396.07,Net Banking
+844,1/18/2023,West,Chennai,Electronics,TV,CUST1693,30,Male,2,3021,0.08,5558.64,1181.77,Cash
+845,3/20/2023,North,Kolkata,Clothing,Jeans,CUST1657,40,Male,1,328,0.21,259.12,40.29,UPI
+846,3/12/2023,North,Hyderabad,Furniture,Chair,CUST1247,35,Male,3,2909,0.16,7330.68,2849.37,Cash
+847,11/1/2023,North,Delhi,Electronics,Mobile,CUST1051,46,Male,2,4665,0.23,7184.1,963.02,Net Banking
+848,11/28/2023,North,Chennai,Furniture,Table,CUST1297,23,Male,5,2621,0.1,11794.5,4693.09,UPI
+849,1/24/2023,West,Delhi,Grocery,Oil,CUST1383,24,Male,4,4105,0.3,11494,1316.99,UPI
+850,10/13/2023,West,Kolkata,Electronics,Mobile,CUST1988,39,Male,3,3868,0.09,10559.64,2901.59,Net Banking
+851,2/11/2023,East,Hyderabad,Clothing,Shirt,CUST1609,18,Female,3,3383,0.24,7713.24,1378.95,Net Banking
+852,7/26/2023,North,Hyderabad,Electronics,Laptop,CUST1109,39,Male,2,3930,0.3,5502,1681.47,UPI
+853,10/18/2023,West,Hyderabad,Grocery,Snacks,CUST1113,18,Female,3,2010,0.04,5788.8,2193.02,Cash
+854,8/7/2023,West,Kolkata,Clothing,Jacket,CUST1788,33,Male,4,3648,0.04,14008.32,4881.02,Cash
+855,3/6/2023,East,Bangalore,Electronics,Headphones,CUST1611,27,Male,4,160,0.14,550.4,185.11,Card
+856,6/30/2023,South,Kolkata,Electronics,Mobile,CUST1326,32,Male,3,4060,0.24,9256.8,979.02,Net Banking
+857,11/23/2023,West,Mumbai,Furniture,Table,CUST1607,36,Male,2,1104,0.12,1943.04,459.79,Cash
+858,5/20/2023,North,Hyderabad,Electronics,Headphones,CUST1837,39,Female,2,1133,0.06,2130.04,566.25,Cash
+859,7/17/2023,West,Mumbai,Clothing,Jeans,CUST1210,35,Male,1,228,0.05,216.6,51.09,UPI
+860,12/1/2023,West,Kolkata,Clothing,Shirt,CUST1043,44,Male,5,3268,0.01,16176.6,5140.98,Net Banking
+861,7/4/2023,West,Kolkata,Clothing,Jacket,CUST1068,19,Male,2,647,0.05,1229.3,347.07,Net Banking
+862,6/3/2023,East,Chennai,Electronics,TV,CUST1546,32,Female,2,4794,0.19,7766.28,1993.43,UPI
+863,5/31/2023,East,Hyderabad,Clothing,Jeans,CUST1582,20,Male,3,2560,0.04,7372.8,874.27,Card
+864,4/15/2023,South,Chennai,Furniture,Table,CUST1000,31,Male,2,2179,0.21,3442.82,422.7,Net Banking
+865,3/31/2023,South,Kolkata,Clothing,Dress,CUST1225,47,Male,4,1859,0.28,5353.92,1147.08,Card
+866,6/19/2023,North,Chennai,Electronics,Mobile,CUST1818,29,Female,4,3268,0.06,12287.68,4039.64,UPI
+867,11/16/2023,South,Kolkata,Clothing,Shirt,CUST1493,19,Male,1,3698,0.23,2847.46,530.2,UPI
+868,10/5/2023,South,Delhi,Furniture,Table,CUST1511,43,Male,4,2160,0.1,7776,1515.07,Card
+869,4/27/2023,West,Bangalore,Grocery,Milk,CUST1165,58,Female,1,2221,0.22,1732.38,505.65,Net Banking
+870,5/25/2023,South,Hyderabad,Furniture,Table,CUST1727,54,Female,5,443,0.04,2126.4,660.47,Net Banking
+871,5/17/2023,West,Delhi,Electronics,Laptop,CUST1835,34,Female,1,3301,0.12,2904.88,947.96,Net Banking
+872,7/22/2023,West,Delhi,Clothing,Shirt,CUST1340,38,Male,1,4312,0.17,3578.96,807.17,Cash
+873,10/1/2023,North,Hyderabad,Grocery,Snacks,CUST1553,37,Male,2,4890,0.08,8997.6,3380.52,UPI
+874,6/6/2023,West,Hyderabad,Electronics,Headphones,CUST1734,21,Female,5,656,0.1,2952,851.28,Cash
+875,3/20/2023,North,Delhi,Furniture,Chair,CUST1154,32,Male,2,4754,0.26,7035.92,2709.66,Net Banking
+876,1/26/2023,East,Delhi,Electronics,Laptop,CUST1728,43,Female,4,1096,0.26,3244.16,1212.89,Card
+877,5/11/2023,West,Chennai,Grocery,Snacks,CUST1449,50,Male,2,4287,0.19,6944.94,1049.97,Card
+878,6/26/2023,East,Delhi,Clothing,Dress,CUST1695,20,Male,2,886,0.17,1470.76,252.01,Cash
+879,12/22/2023,East,Bangalore,Grocery,Snacks,CUST1884,24,Male,3,4762,0.25,10714.5,1117.2,Card
+880,2/18/2023,West,Kolkata,Grocery,Milk,CUST1536,27,Female,4,4603,0.25,13809,3887.01,UPI
+881,5/28/2023,North,Hyderabad,Electronics,TV,CUST1335,24,Female,2,3328,0.14,5724.16,1226.34,UPI
+882,7/18/2023,East,Hyderabad,Clothing,Jacket,CUST1160,43,Female,1,1457,0.16,1223.88,414.63,Cash
+883,3/9/2023,East,Chennai,Clothing,Jacket,CUST1764,43,Female,1,400,0.11,356,131.07,Card
+884,5/20/2023,West,Hyderabad,Electronics,TV,CUST1729,50,Male,3,1637,0.13,4272.57,1100.06,Cash
+885,10/9/2023,East,Mumbai,Electronics,Headphones,CUST1660,45,Female,5,3761,0.08,17300.6,4601.65,Card
+886,3/20/2023,East,Delhi,Furniture,Bed,CUST1204,40,Female,4,2059,0.01,8153.64,870.93,UPI
+887,9/25/2023,East,Bangalore,Grocery,Oil,CUST1807,19,Female,1,1399,0.22,1091.22,239.99,Net Banking
+888,8/26/2023,East,Delhi,Clothing,Jacket,CUST1133,30,Male,4,177,0.17,587.64,174.83,Cash
+889,9/3/2023,West,Delhi,Clothing,Jacket,CUST1733,57,Female,4,377,0.03,1462.76,215.56,Net Banking
+890,12/23/2023,South,Mumbai,Electronics,Mobile,CUST1815,24,Female,3,1897,0.06,5349.54,773.43,Net Banking
+891,3/10/2023,North,Bangalore,Grocery,Rice,CUST1534,54,Female,3,3240,0.05,9234,2501.45,Cash
+892,6/3/2023,South,Delhi,Clothing,Jacket,CUST1404,25,Male,1,3442,0.04,3304.32,1037.75,UPI
+893,2/4/2023,West,Delhi,Clothing,Jeans,CUST1630,31,Male,5,988,0.17,4100.2,584.77,UPI
+894,2/3/2023,North,Mumbai,Clothing,Jeans,CUST1168,27,Female,2,3823,0.06,7187.24,2674.99,Net Banking
+895,9/14/2023,North,Bangalore,Grocery,Milk,CUST1779,56,Male,2,2036,0.04,3909.12,1208.57,Net Banking
+896,8/2/2023,North,Chennai,Electronics,Mobile,CUST1120,21,Female,4,3085,0.05,11723,3353.7,UPI
+897,11/26/2023,East,Delhi,Electronics,TV,CUST1865,23,Male,2,2344,0.04,4500.48,1636.26,UPI
+898,5/20/2023,West,Delhi,Clothing,Dress,CUST1840,19,Female,5,2454,0.15,10429.5,4094.31,UPI
+899,7/31/2023,West,Kolkata,Grocery,Snacks,CUST1111,25,Female,2,1774,0.04,3406.08,618.53,Cash
+900,8/30/2023,North,Chennai,Clothing,Shirt,CUST1980,39,Female,4,973,0.13,3386.04,685.7,Cash
+901,8/4/2023,South,Bangalore,Clothing,Shirt,CUST1854,24,Female,5,2383,0.1,10723.5,1288.32,UPI
+902,2/13/2023,West,Hyderabad,Grocery,Oil,CUST1085,27,Female,1,4605,0.22,3591.9,1397.2,Cash
+903,2/20/2023,West,Chennai,Clothing,Jeans,CUST1265,25,Female,2,1780,0.19,2883.6,1098.85,Card
+904,10/16/2023,South,Kolkata,Grocery,Snacks,CUST1442,35,Female,5,169,0.18,692.9,227.98,Card
+905,10/10/2023,West,Bangalore,Electronics,Mobile,CUST1585,59,Female,4,855,0.25,2565,841.46,Net Banking
+906,2/26/2023,West,Bangalore,Grocery,Snacks,CUST1179,57,Female,2,3965,0.14,6819.8,1107.67,Cash
+907,9/15/2023,North,Chennai,Electronics,Mobile,CUST1529,50,Male,5,2723,0.16,11436.6,1336.56,UPI
+908,9/3/2023,North,Chennai,Clothing,Dress,CUST1401,41,Male,5,695,0.13,3023.25,685.42,UPI
+909,6/26/2023,West,Chennai,Clothing,Jacket,CUST1138,19,Male,5,1665,0.11,7409.25,2742.55,Net Banking
+910,3/30/2023,East,Chennai,Grocery,Snacks,CUST1835,59,Female,2,3335,0.15,5669.5,1783.74,Net Banking
+911,9/8/2023,North,Bangalore,Electronics,Mobile,CUST1309,33,Male,3,4936,0.09,13475.28,4575.68,Cash
+912,1/18/2023,North,Chennai,Grocery,Snacks,CUST1056,22,Male,1,2287,0.28,1646.64,630.88,Net Banking
+913,3/31/2023,West,Delhi,Grocery,Oil,CUST1615,29,Male,2,3353,0.07,6236.58,1852.37,Card
+914,9/15/2023,South,Hyderabad,Grocery,Oil,CUST1638,54,Male,2,3118,0.22,4864.08,1168.12,UPI
+915,9/11/2023,South,Chennai,Electronics,Laptop,CUST1187,26,Female,2,3259,0.1,5866.2,2284.51,UPI
+916,11/29/2023,South,Hyderabad,Electronics,Mobile,CUST1168,32,Female,5,1520,0.19,6156,801.67,Card
+917,12/21/2023,South,Chennai,Furniture,Sofa,CUST1254,32,Male,2,859,0.27,1254.14,215.56,UPI
+918,4/18/2023,East,Mumbai,Electronics,TV,CUST1025,54,Male,4,1976,0.11,7034.56,2372.68,Net Banking
+919,5/31/2023,West,Chennai,Furniture,Chair,CUST1634,33,Male,5,1108,0.3,3878,1307.94,UPI
+920,11/5/2023,East,Kolkata,Electronics,TV,CUST1873,42,Female,5,354,0.13,1539.9,354.75,Cash
+921,1/9/2023,West,Mumbai,Grocery,Rice,CUST1523,22,Female,4,4552,0.09,16569.28,6441.82,Card
+922,8/14/2023,South,Mumbai,Clothing,Jacket,CUST1844,56,Male,4,3865,0.19,12522.6,4555.42,Card
+923,2/11/2023,South,Chennai,Clothing,Dress,CUST1421,21,Female,2,1488,0.2,2380.8,692.76,UPI
+924,4/11/2023,West,Mumbai,Electronics,Laptop,CUST1767,27,Male,5,644,0.06,3026.8,640.95,UPI
+925,3/24/2023,West,Bangalore,Grocery,Rice,CUST1181,27,Female,3,754,0.22,1764.36,671.98,UPI
+926,10/19/2023,East,Mumbai,Furniture,Bed,CUST1280,40,Female,4,1113,0.29,3160.92,654.84,UPI
+927,3/2/2023,South,Delhi,Electronics,TV,CUST1308,35,Female,4,3781,0.24,11494.24,3099.32,Net Banking
+928,8/14/2023,South,Hyderabad,Grocery,Oil,CUST1104,31,Female,3,4102,0.16,10337.04,2107.97,Net Banking
+929,12/2/2023,East,Mumbai,Electronics,Headphones,CUST1587,22,Male,4,4624,0.07,17201.28,5375.26,UPI
+930,9/30/2023,East,Delhi,Electronics,Laptop,CUST1367,44,Male,2,2893,0.11,5149.54,1034.43,Net Banking
+931,2/18/2023,West,Mumbai,Grocery,Rice,CUST1445,55,Male,3,3857,0.27,8446.83,2994.21,Net Banking
+932,8/3/2023,South,Mumbai,Electronics,Mobile,CUST1897,41,Female,4,532,0.08,1957.76,439.34,UPI
+933,3/21/2023,North,Mumbai,Electronics,Laptop,CUST1696,30,Male,3,4122,0.27,9027.18,1668.42,Card
+934,8/2/2023,East,Hyderabad,Furniture,Sofa,CUST1368,39,Male,3,4673,0.12,12336.72,1356.89,Cash
+935,3/17/2023,South,Hyderabad,Clothing,Dress,CUST1310,38,Male,2,3164,0.3,4429.6,1204.6,UPI
+936,9/3/2023,North,Bangalore,Electronics,Headphones,CUST1948,37,Female,4,4034,0.26,11940.64,3985.62,Cash
+937,2/6/2023,West,Kolkata,Clothing,Jacket,CUST1332,36,Male,4,264,0.12,929.28,231.55,UPI
+938,1/19/2023,West,Bangalore,Furniture,Table,CUST1364,24,Male,5,4257,0.15,18092.25,3354.04,Net Banking
+939,2/24/2023,West,Mumbai,Furniture,Sofa,CUST1777,49,Male,1,679,0.11,604.31,92.96,Cash
+940,1/10/2023,South,Bangalore,Electronics,Mobile,CUST1357,44,Male,2,4144,0.02,8122.24,2151.82,Cash
+941,8/19/2023,North,Mumbai,Clothing,Jacket,CUST1077,38,Female,4,2838,0.16,9535.68,3457.69,Cash
+942,7/4/2023,East,Mumbai,Grocery,Rice,CUST1573,48,Female,5,4244,0.01,21007.8,3522.05,UPI
+943,5/27/2023,West,Bangalore,Grocery,Oil,CUST1483,50,Female,4,3616,0.28,10414.08,2737.68,UPI
+944,4/18/2023,East,Mumbai,Grocery,Rice,CUST1265,48,Male,5,545,0.13,2370.75,567.41,Net Banking
+945,3/21/2023,South,Hyderabad,Electronics,TV,CUST1823,40,Female,1,4125,0.15,3506.25,408.09,Cash
+946,4/30/2023,South,Bangalore,Clothing,Dress,CUST1788,35,Female,4,2633,0.08,9689.44,1088.5,UPI
+947,10/4/2023,East,Bangalore,Electronics,Mobile,CUST1226,58,Male,1,4214,0.12,3708.32,372.17,Card
+948,2/24/2023,West,Mumbai,Electronics,Laptop,CUST1979,51,Female,3,1276,0.13,3330.36,822.14,Card
+949,12/3/2023,West,Hyderabad,Grocery,Snacks,CUST1508,19,Female,5,472,0.17,1958.8,249.01,Net Banking
+950,2/11/2023,West,Delhi,Clothing,Jeans,CUST1314,37,Female,3,603,0.03,1754.73,616.9,Card
+951,3/3/2023,East,Delhi,Electronics,TV,CUST1611,36,Female,1,1140,0.01,1128.6,270.59,Cash
+952,3/22/2023,South,Hyderabad,Clothing,Jeans,CUST1550,53,Male,1,4618,0.26,3417.32,387,Card
+953,7/23/2023,South,Kolkata,Furniture,Bed,CUST1195,41,Male,5,3559,0.29,12634.45,1819.42,Card
+954,11/21/2023,West,Chennai,Furniture,Chair,CUST1145,59,Male,5,2092,0.08,9623.2,3549.74,Net Banking
+955,12/10/2023,North,Mumbai,Grocery,Oil,CUST1714,52,Male,1,822,0.18,674.04,194.6,Cash
+956,9/28/2023,East,Delhi,Clothing,Jeans,CUST1923,41,Male,1,4836,0.1,4352.4,1177.14,Net Banking
+957,12/31/2023,West,Bangalore,Clothing,Jeans,CUST1075,37,Female,4,2144,0.15,7289.6,1173.67,UPI
+958,2/16/2023,North,Chennai,Furniture,Chair,CUST1378,49,Female,1,2872,0.07,2670.96,664.13,UPI
+959,1/18/2023,East,Chennai,Clothing,Jacket,CUST1678,46,Female,4,2003,0.29,5688.52,1300.62,UPI
+960,6/11/2023,South,Kolkata,Grocery,Milk,CUST1838,53,Female,2,2575,0.14,4429,541.45,Cash
+961,9/12/2023,North,Hyderabad,Grocery,Milk,CUST1178,52,Male,2,2540,0.26,3759.2,1228.51,Net Banking
+962,6/16/2023,West,Kolkata,Clothing,Jeans,CUST1467,42,Male,2,2536,0.15,4311.2,831.9,Card
+963,10/6/2023,East,Chennai,Electronics,Headphones,CUST1815,37,Female,4,2341,0.16,7865.76,1523.36,Net Banking
+964,8/5/2023,South,Chennai,Grocery,Oil,CUST1000,24,Female,5,2825,0.03,13701.25,2102.79,Cash
+965,12/25/2023,South,Delhi,Electronics,Laptop,CUST1657,19,Female,1,4373,0,4373,747.1,Net Banking
+966,9/9/2023,North,Kolkata,Clothing,Jacket,CUST1502,56,Female,2,2164,0.07,4025.04,787.36,Card
+967,6/28/2023,West,Kolkata,Clothing,Dress,CUST1893,51,Female,2,809,0.15,1375.3,143.11,Cash
+968,1/3/2023,South,Bangalore,Grocery,Oil,CUST1213,39,Female,4,3954,0.01,15657.84,2299.45,UPI
+969,6/25/2023,North,Delhi,Electronics,TV,CUST1656,24,Female,2,3734,0.02,7318.64,2490.33,UPI
+970,1/17/2023,East,Chennai,Furniture,Table,CUST1051,23,Female,5,4005,0.04,19224,6018.68,Cash
+971,7/24/2023,West,Hyderabad,Clothing,Shirt,CUST1722,38,Male,3,424,0.22,992.16,394.66,Cash
+972,12/23/2023,West,Delhi,Electronics,Laptop,CUST1167,52,Female,4,251,0.29,712.84,114.02,Cash
+973,11/30/2023,North,Delhi,Electronics,Mobile,CUST1140,44,Male,4,4668,0.23,14377.44,2048.83,Cash
+974,9/15/2023,West,Bangalore,Grocery,Snacks,CUST1760,30,Male,1,1867,0.07,1736.31,363.43,Cash
+975,1/22/2023,South,Chennai,Clothing,Jeans,CUST1366,20,Male,4,165,0.1,594,114.04,UPI
+976,3/25/2023,South,Delhi,Grocery,Rice,CUST1614,56,Female,3,3615,0.13,9435.15,1716.2,Net Banking
+977,1/13/2023,South,Chennai,Grocery,Snacks,CUST1119,27,Male,5,1932,0.03,9370.2,2148.63,Net Banking
+978,9/16/2023,North,Delhi,Electronics,Headphones,CUST1887,22,Male,1,4057,0.17,3367.31,1069.46,Card
+979,12/28/2023,West,Kolkata,Electronics,Headphones,CUST1115,51,Male,2,622,0.22,970.32,337.43,Card
+980,3/7/2023,East,Mumbai,Grocery,Milk,CUST1069,58,Female,3,3883,0.01,11532.51,3058.65,UPI
+981,7/18/2023,West,Chennai,Electronics,TV,CUST1550,34,Female,4,2588,0.02,10144.96,2700.07,Cash
+982,3/11/2023,South,Mumbai,Furniture,Chair,CUST1165,19,Male,5,2473,0.21,9768.35,3596.08,UPI
+983,6/14/2023,North,Mumbai,Clothing,Jeans,CUST1048,50,Male,4,3506,0.19,11359.44,1700.54,Card
+984,10/20/2023,West,Hyderabad,Clothing,Dress,CUST1477,48,Male,2,2280,0.01,4514.4,940.4,Card
+985,3/28/2023,West,Hyderabad,Grocery,Snacks,CUST1224,33,Male,2,4877,0.13,8485.98,851.02,Net Banking
+986,11/11/2023,South,Kolkata,Clothing,Jeans,CUST1836,45,Female,3,3839,0.16,9674.28,1934.08,Card
+987,12/13/2023,East,Hyderabad,Electronics,Headphones,CUST1861,44,Female,5,2890,0.25,10837.5,2299.54,Net Banking
+988,7/6/2023,East,Delhi,Grocery,Milk,CUST1549,22,Male,2,2275,0.13,3958.5,515.3,UPI
+989,12/17/2023,South,Hyderabad,Clothing,Jacket,CUST1146,26,Female,4,3736,0.25,11208,2094.71,UPI
+990,9/17/2023,South,Kolkata,Furniture,Bed,CUST1893,20,Female,5,4377,0.19,17726.85,5277.49,UPI
+991,7/22/2023,South,Mumbai,Electronics,Mobile,CUST1410,50,Female,5,2519,0.2,10076,1013.04,Net Banking
+992,4/21/2023,South,Hyderabad,Grocery,Milk,CUST1337,18,Male,5,1225,0.29,4348.75,1654.34,Net Banking
+993,10/8/2023,South,Chennai,Furniture,Table,CUST1042,55,Male,3,3462,0.2,8308.8,874.54,UPI
+994,5/6/2023,West,Delhi,Clothing,Jacket,CUST1491,27,Male,4,2086,0.06,7843.36,2909.06,Net Banking
+995,7/8/2023,West,Hyderabad,Clothing,Jeans,CUST1414,27,Female,5,2924,0.13,12719.4,3298.05,Card
+996,6/26/2023,West,Mumbai,Grocery,Snacks,CUST1386,27,Female,2,601,0.28,865.44,258.36,Net Banking
+997,12/12/2023,West,Bangalore,Grocery,Oil,CUST1229,43,Female,5,1105,0.25,4143.75,725.72,Card
+998,9/16/2023,South,Bangalore,Electronics,Laptop,CUST1947,48,Female,5,4466,0.2,17864,6932.32,Card
+999,11/18/2023,East,Kolkata,Electronics,Headphones,CUST1437,44,Female,5,987,0.29,3503.85,882.29,Card
+1000,9/21/2023,East,Chennai,Grocery,Oil,CUST1608,24,Female,2,4001,0.13,6961.74,1032.76,UPI
+1001,9/5/2023,East,Bangalore,Clothing,Shirt,CUST1787,25,Female,5,299,0.27,1091.35,167.9,Cash
+1002,9/22/2023,East,Mumbai,Clothing,Jacket,CUST1270,47,Male,2,3473,0.13,6043.02,1796.48,Cash
+1003,3/25/2023,East,Mumbai,Electronics,Mobile,CUST1364,54,Male,2,1517,0.17,2518.22,866.33,Cash
+1004,6/15/2023,West,Chennai,Clothing,Jacket,CUST1158,31,Female,1,3915,0.04,3758.4,910.91,Card
+1005,4/1/2023,West,Chennai,Clothing,Dress,CUST1215,30,Female,5,2372,0.16,9962.4,3135.99,Net Banking
+1006,8/8/2023,West,Chennai,Electronics,Mobile,CUST1839,40,Male,2,1664,0.22,2595.84,551.11,UPI
+1007,12/27/2023,South,Kolkata,Grocery,Oil,CUST1282,19,Male,5,3560,0.27,12994,2510.11,UPI
+1008,6/2/2023,North,Bangalore,Grocery,Snacks,CUST1693,20,Female,1,3070,0.29,2179.7,461,Net Banking
+1009,3/23/2023,North,Chennai,Electronics,Mobile,CUST1598,19,Male,5,413,0.19,1672.65,276.93,Card
+1010,7/31/2023,West,Chennai,Electronics,Headphones,CUST1576,18,Female,4,4857,0.22,15153.84,2193.43,UPI
+1011,9/16/2023,West,Hyderabad,Grocery,Snacks,CUST1045,28,Male,1,4823,0.29,3424.33,1154.08,Card
+1012,2/4/2023,South,Hyderabad,Grocery,Snacks,CUST1535,45,Female,4,1936,0.27,5653.12,1902.19,Net Banking
+1013,7/26/2023,West,Hyderabad,Furniture,Table,CUST1911,32,Female,4,4171,0.04,16016.64,3302.98,Cash
+1014,4/25/2023,West,Delhi,Electronics,Mobile,CUST1579,22,Female,1,4165,0.18,3415.3,592.73,UPI
+1015,10/24/2023,East,Hyderabad,Furniture,Bed,CUST1177,40,Male,3,2541,0,7623,799.05,UPI
+1016,6/10/2023,West,Mumbai,Electronics,Headphones,CUST1868,32,Female,3,4454,0.08,12293.04,1676.48,Net Banking
+1017,4/27/2023,East,Chennai,Furniture,Table,CUST1675,49,Male,2,2602,0.07,4839.72,1143.62,Cash
+1018,4/22/2023,East,Chennai,Furniture,Sofa,CUST1797,53,Male,4,1456,0.09,5299.84,1820.54,Card
+1019,3/6/2023,South,Delhi,Grocery,Snacks,CUST1324,39,Female,1,4634,0.03,4494.98,1227.66,Cash
+1020,6/13/2023,East,Hyderabad,Furniture,Chair,CUST1067,53,Male,3,1232,0.06,3474.24,1287.96,Cash
+1021,1/22/2023,South,Chennai,Furniture,Chair,CUST1065,38,Female,4,4376,0.05,16628.8,6029.86,Cash
+1022,10/12/2023,East,Mumbai,Grocery,Rice,CUST1821,43,Female,4,2531,0.02,9921.52,3916.01,Cash
+1023,3/14/2023,West,Kolkata,Electronics,Mobile,CUST1478,31,Male,5,4980,0.27,18177,4165.27,UPI
+1024,2/28/2023,East,Mumbai,Clothing,Shirt,CUST1864,52,Male,1,200,0.06,188,74.81,Card
+1025,1/2/2023,West,Mumbai,Furniture,Table,CUST1754,58,Female,2,3018,0.04,5794.56,775.82,UPI
+1026,9/27/2023,East,Delhi,Electronics,Laptop,CUST1758,29,Male,3,3765,0.11,10052.55,2119.17,Net Banking
+1027,3/15/2023,East,Chennai,Clothing,Jacket,CUST1170,34,Male,3,3560,0.23,8223.6,979.82,Cash
+1028,4/10/2023,East,Chennai,Grocery,Snacks,CUST1657,26,Female,5,461,0.22,1797.9,582.79,UPI
+1029,5/23/2023,West,Chennai,Grocery,Rice,CUST1389,59,Female,1,1152,0.19,933.12,171.4,Card
+1030,6/21/2023,South,Chennai,Grocery,Milk,CUST1230,33,Male,5,4032,0.09,18345.6,4818.96,Cash
+1031,12/28/2023,South,Hyderabad,Clothing,Shirt,CUST1319,55,Male,3,1393,0.29,2967.09,413.71,UPI
+1032,7/15/2023,West,Delhi,Electronics,TV,CUST1886,31,Female,5,1655,0.25,6206.25,621.83,Cash
+1033,4/8/2023,South,Hyderabad,Clothing,Shirt,CUST1235,22,Female,1,1215,0.07,1129.95,423.52,UPI
+1034,10/16/2023,West,Delhi,Grocery,Oil,CUST1637,20,Female,5,1026,0.1,4617,1761.25,Cash
+1035,9/10/2023,South,Hyderabad,Electronics,Headphones,CUST1797,26,Female,2,2351,0.23,3620.54,1226.9,Net Banking
+1036,1/25/2023,East,Bangalore,Clothing,Shirt,CUST1690,30,Male,2,4581,0.29,6505.02,1373.18,Card
+1037,9/3/2023,South,Kolkata,Furniture,Table,CUST1808,48,Male,4,2822,0.25,8466,2671.5,Net Banking
+1038,4/20/2023,West,Bangalore,Electronics,Mobile,CUST1580,59,Female,4,4242,0.28,12216.96,3066.18,Card
+1039,6/11/2023,West,Mumbai,Clothing,Dress,CUST1996,47,Male,4,1453,0.22,4533.36,1576.75,Card
+1040,2/22/2023,East,Delhi,Clothing,Dress,CUST1197,59,Male,3,4592,0.01,13638.24,2857.5,Card
+1041,12/20/2023,West,Mumbai,Grocery,Oil,CUST1985,35,Female,4,2132,0.21,6737.12,2192,Card
+1042,10/5/2023,West,Mumbai,Clothing,Jacket,CUST1692,47,Female,5,2247,0.03,10897.95,4304.67,Cash
+1043,9/21/2023,West,Chennai,Furniture,Bed,CUST1609,26,Female,2,590,0.22,920.4,279.8,Net Banking
+1044,11/24/2023,North,Chennai,Grocery,Milk,CUST1210,40,Female,3,4476,0.2,10742.4,3190.35,Cash
+1045,3/24/2023,South,Delhi,Grocery,Milk,CUST1895,59,Female,3,4747,0.19,11535.21,3107.73,Cash
+1046,8/17/2023,East,Chennai,Electronics,Headphones,CUST1978,50,Female,5,4362,0.22,17011.8,6062.07,UPI
+1047,8/8/2023,West,Hyderabad,Furniture,Sofa,CUST1884,22,Male,2,4035,0.06,7585.8,2495.61,Net Banking
+1048,6/10/2023,West,Bangalore,Electronics,Headphones,CUST1618,40,Male,1,4328,0.08,3981.76,557.03,UPI
+1049,10/9/2023,North,Hyderabad,Electronics,TV,CUST1143,30,Male,1,1870,0.21,1477.3,566.22,Net Banking
+1050,5/14/2023,West,Delhi,Clothing,Jacket,CUST1557,55,Female,1,3837,0.13,3338.19,1204.41,Net Banking
+1051,11/26/2023,South,Delhi,Grocery,Milk,CUST1784,46,Male,2,3387,0.18,5554.68,1023.23,Cash
+1052,5/20/2023,South,Bangalore,Furniture,Chair,CUST1098,31,Male,2,2097,0.1,3774.6,431.52,Net Banking
+1053,5/21/2023,East,Kolkata,Furniture,Chair,CUST1724,58,Male,3,1043,0.11,2784.81,1031.09,Card
+1054,2/21/2023,West,Hyderabad,Electronics,Headphones,CUST1897,42,Male,2,1624,0.09,2955.68,1137.23,Cash
+1055,8/18/2023,East,Hyderabad,Electronics,Mobile,CUST1130,59,Male,5,325,0.21,1283.75,352.16,Net Banking
+1056,11/19/2023,North,Mumbai,Clothing,Dress,CUST1209,56,Male,3,2985,0.11,7969.95,1678.99,Card
+1057,5/9/2023,South,Kolkata,Grocery,Oil,CUST1090,45,Female,1,4328,0.29,3072.88,962.33,Card
+1058,7/27/2023,South,Hyderabad,Clothing,Shirt,CUST1943,41,Male,5,432,0.15,1836,720.81,Cash
+1059,6/23/2023,West,Delhi,Clothing,Jacket,CUST1028,52,Female,3,1529,0.22,3577.86,696.19,Card
+1060,11/26/2023,East,Chennai,Furniture,Table,CUST1944,49,Male,4,4546,0.07,16911.12,6664.75,UPI
+1061,1/31/2023,North,Delhi,Grocery,Rice,CUST1882,57,Female,3,869,0.08,2398.44,241.3,UPI
+1062,10/8/2023,East,Hyderabad,Furniture,Bed,CUST1303,18,Female,2,1664,0.05,3161.6,515.26,Cash
+1063,9/6/2023,West,Chennai,Grocery,Oil,CUST1832,38,Male,5,4085,0.11,18178.25,3073.59,UPI
+1064,12/22/2023,West,Chennai,Electronics,Mobile,CUST1539,34,Male,3,4574,0.12,12075.36,2034.08,Card
+1065,8/19/2023,South,Bangalore,Electronics,TV,CUST1715,19,Male,3,4875,0.1,13162.5,4413.61,Card
+1066,12/13/2023,North,Kolkata,Clothing,Shirt,CUST1961,41,Male,5,492,0.28,1771.2,611.3,Net Banking
+1067,1/31/2023,East,Chennai,Grocery,Snacks,CUST1522,40,Female,1,3777,0.12,3323.76,349.47,Cash
+1068,12/25/2023,South,Kolkata,Electronics,TV,CUST1100,38,Female,1,4171,0.17,3461.93,416.54,Net Banking
+1069,1/20/2023,South,Mumbai,Furniture,Sofa,CUST1254,55,Male,2,1512,0.29,2147.04,277.06,Net Banking
+1070,1/26/2023,South,Bangalore,Clothing,Dress,CUST1453,58,Male,4,2133,0.04,8190.72,1395.18,Cash
+1071,2/17/2023,East,Mumbai,Grocery,Milk,CUST1920,52,Female,1,2884,0.16,2422.56,344.05,Card
+1072,7/24/2023,North,Bangalore,Electronics,Headphones,CUST1696,20,Female,4,3777,0.02,14805.84,3138.1,UPI
+1073,4/14/2023,North,Chennai,Grocery,Oil,CUST1757,50,Male,4,2968,0.28,8547.84,2889.51,Cash
+1074,11/28/2023,East,Delhi,Furniture,Bed,CUST1716,59,Female,2,311,0.16,522.48,194.97,Card
+1075,10/30/2023,North,Hyderabad,Clothing,Shirt,CUST1171,26,Female,1,1041,0.28,749.52,127.89,Net Banking
+1076,1/15/2023,North,Bangalore,Grocery,Rice,CUST1803,22,Female,2,2837,0.19,4595.94,1347.44,Cash
+1077,9/20/2023,South,Mumbai,Clothing,Dress,CUST1515,43,Male,1,3501,0.26,2590.74,937.74,UPI
+1078,1/29/2023,East,Delhi,Grocery,Rice,CUST1662,31,Female,5,4255,0.09,19360.25,5123,Cash
+1079,7/5/2023,North,Hyderabad,Furniture,Sofa,CUST1397,46,Male,1,1276,0.06,1199.44,309.02,UPI
+1080,8/19/2023,East,Delhi,Electronics,Headphones,CUST1487,35,Female,4,2613,0.15,8884.2,1296.78,Cash
+1081,1/19/2023,North,Hyderabad,Grocery,Milk,CUST1730,23,Female,1,1028,0.28,740.16,134.84,UPI
+1082,11/26/2023,West,Delhi,Clothing,Jacket,CUST1201,41,Male,3,712,0.16,1794.24,417.64,Card
+1083,8/10/2023,West,Kolkata,Clothing,Dress,CUST1382,33,Female,5,958,0.23,3688.3,1286.62,Cash
+1084,8/29/2023,West,Bangalore,Furniture,Chair,CUST1020,53,Female,3,2163,0.17,5385.87,1578.23,Cash
+1085,6/2/2023,South,Kolkata,Grocery,Milk,CUST1065,26,Female,1,1411,0.07,1312.23,344.68,UPI
+1086,4/13/2023,North,Delhi,Furniture,Bed,CUST1992,18,Female,4,4632,0.01,18342.72,5031.78,UPI
+1087,8/25/2023,North,Hyderabad,Electronics,Headphones,CUST1025,31,Male,5,1321,0.28,4755.6,1069.88,Net Banking
+1088,1/31/2023,South,Delhi,Clothing,Jacket,CUST1983,48,Female,2,3353,0.06,6303.64,969.02,UPI
+1089,9/13/2023,South,Delhi,Furniture,Sofa,CUST1441,41,Male,5,2765,0.08,12719,3106.46,Net Banking
+1090,12/4/2023,South,Chennai,Clothing,Jacket,CUST1877,35,Female,5,4030,0.11,17933.5,2206.08,Net Banking
+1091,11/24/2023,North,Bangalore,Electronics,Laptop,CUST1915,59,Female,5,1917,0.15,8147.25,2150.29,Cash
+1092,9/24/2023,North,Delhi,Clothing,Shirt,CUST1798,56,Female,3,2200,0.03,6402,1824.47,UPI
+1093,4/11/2023,East,Kolkata,Electronics,Mobile,CUST1676,32,Female,4,4794,0.03,18600.72,4158.42,Cash
+1094,3/25/2023,West,Bangalore,Furniture,Bed,CUST1270,21,Male,5,1749,0.06,8220.3,2515.06,Cash
+1095,11/27/2023,East,Bangalore,Electronics,TV,CUST1923,19,Male,2,3337,0.19,5405.94,861.99,Card
+1096,2/19/2023,South,Hyderabad,Furniture,Chair,CUST1909,27,Male,3,3819,0.26,8478.18,1399.34,Net Banking
+1097,11/19/2023,West,Mumbai,Electronics,Headphones,CUST1692,56,Male,3,1004,0.28,2168.64,490.26,Cash
+1098,6/20/2023,East,Kolkata,Clothing,Jacket,CUST1014,36,Female,4,174,0.01,689.04,121.96,Cash
+1099,5/31/2023,South,Chennai,Furniture,Chair,CUST1140,22,Male,5,3871,0.28,13935.6,5507.97,UPI
+1100,4/11/2023,North,Hyderabad,Clothing,Shirt,CUST1660,35,Female,4,2111,0.15,7177.4,1993.72,Card
+1101,4/5/2023,East,Mumbai,Electronics,TV,CUST1225,23,Female,1,342,0.08,314.64,90.99,Cash
+1102,9/15/2023,West,Chennai,Electronics,Headphones,CUST1398,40,Female,3,4591,0.05,13084.35,4457.75,Net Banking
+1103,5/22/2023,West,Bangalore,Grocery,Milk,CUST1427,47,Female,5,1972,0.15,8381,3075.47,Card
+1104,9/19/2023,South,Bangalore,Grocery,Rice,CUST1282,35,Male,1,1539,0.24,1169.64,363.57,Card
+1105,2/16/2023,North,Kolkata,Furniture,Bed,CUST1974,28,Male,5,4059,0.19,16438.95,2715.32,Net Banking
+1106,6/5/2023,North,Mumbai,Furniture,Table,CUST1999,24,Female,1,2421,0.25,1815.75,612.29,Cash
+1107,4/3/2023,North,Delhi,Electronics,TV,CUST1041,45,Female,5,2030,0.2,8120,3027.74,UPI
+1108,5/16/2023,East,Delhi,Furniture,Chair,CUST1617,25,Female,3,3893,0.09,10627.89,1735.71,Card
+1109,4/13/2023,North,Bangalore,Clothing,Jacket,CUST1062,43,Male,4,1092,0.24,3319.68,1175.09,Card
+1110,7/9/2023,West,Bangalore,Electronics,Headphones,CUST1870,45,Female,1,4933,0.11,4390.37,1220.85,Card
+1111,4/22/2023,West,Bangalore,Clothing,Dress,CUST1408,24,Male,5,4681,0.3,16383.5,2716.31,UPI
+1112,9/7/2023,East,Kolkata,Electronics,Mobile,CUST1915,36,Male,4,1320,0.17,4382.4,1523.54,UPI
+1113,7/8/2023,South,Bangalore,Furniture,Chair,CUST1454,51,Male,4,971,0.26,2874.16,378.84,UPI
+1114,7/29/2023,West,Kolkata,Grocery,Oil,CUST1040,59,Male,2,4598,0.22,7172.88,1240.35,UPI
+1115,4/14/2023,South,Chennai,Grocery,Milk,CUST1073,21,Female,1,3210,0.05,3049.5,911.06,UPI
+1116,8/28/2023,West,Bangalore,Electronics,TV,CUST1393,36,Male,3,383,0.2,919.2,137.06,Net Banking
+1117,7/23/2023,East,Delhi,Clothing,Dress,CUST1821,23,Female,3,204,0.14,526.32,67.94,UPI
+1118,9/15/2023,North,Delhi,Grocery,Snacks,CUST1348,50,Male,3,3392,0.28,7326.72,1456.12,Cash
+1119,9/3/2023,South,Mumbai,Clothing,Dress,CUST1443,50,Female,2,837,0.29,1188.54,199.05,Card
+1120,8/23/2023,North,Mumbai,Furniture,Chair,CUST1499,50,Female,4,848,0.17,2815.36,482.39,Cash
+1121,4/8/2023,East,Delhi,Clothing,Jeans,CUST1136,40,Female,5,4980,0.13,21663,2383.42,Cash
+1122,3/25/2023,North,Delhi,Furniture,Bed,CUST1753,42,Male,3,1877,0.29,3998.01,1215.73,Cash
+1123,10/29/2023,West,Chennai,Grocery,Snacks,CUST1277,28,Male,3,4959,0.2,11901.6,2253.6,Cash
+1124,11/6/2023,West,Delhi,Electronics,TV,CUST1420,44,Male,3,2822,0.23,6518.82,1859.76,Net Banking
+1125,9/30/2023,South,Mumbai,Clothing,Jacket,CUST1160,33,Male,4,1931,0.11,6874.36,1510.11,Card
+1126,7/5/2023,West,Chennai,Electronics,TV,CUST1852,22,Male,5,1924,0.28,6926.4,1267.11,Net Banking
+1127,3/6/2023,East,Delhi,Clothing,Jacket,CUST1275,25,Male,2,3945,0.19,6390.9,1579.49,UPI
+1128,1/12/2023,West,Bangalore,Electronics,Mobile,CUST1905,42,Female,2,1068,0.29,1516.56,420.68,Card
+1129,6/13/2023,South,Kolkata,Electronics,Laptop,CUST1550,43,Male,1,4372,0.29,3104.12,881.85,Card
+1130,9/25/2023,West,Mumbai,Clothing,Shirt,CUST1802,30,Female,1,4251,0.23,3273.27,425.22,Cash
+1131,3/21/2023,West,Bangalore,Electronics,Headphones,CUST1646,39,Female,4,1993,0.25,5979,1642.36,Cash
+1132,7/11/2023,East,Chennai,Electronics,Headphones,CUST1102,29,Male,5,942,0.21,3720.9,1188.92,Net Banking
+1133,3/31/2023,East,Mumbai,Grocery,Milk,CUST1231,26,Female,3,4762,0.23,11000.22,2925.67,UPI
+1134,10/19/2023,North,Chennai,Electronics,Headphones,CUST1344,41,Female,1,4549,0.28,3275.28,648.23,Cash
+1135,4/24/2023,North,Hyderabad,Clothing,Jacket,CUST1283,44,Female,4,4852,0.16,16302.72,3442.69,UPI
+1136,1/23/2023,North,Delhi,Electronics,Laptop,CUST1967,49,Male,1,3447,0.27,2516.31,541.92,Card
+1137,1/31/2023,West,Mumbai,Grocery,Rice,CUST1740,22,Male,3,764,0.01,2269.08,403.01,Card
+1138,2/16/2023,West,Hyderabad,Furniture,Chair,CUST1998,24,Male,5,767,0.21,3029.65,625.08,UPI
+1139,3/27/2023,West,Chennai,Grocery,Oil,CUST1381,25,Male,3,4257,0.22,9961.38,3148.49,UPI
+1140,10/25/2023,East,Bangalore,Furniture,Chair,CUST1203,44,Female,1,1175,0.23,904.75,173.69,UPI
+1141,1/16/2023,East,Delhi,Clothing,Jeans,CUST1144,33,Male,4,2782,0.24,8457.28,1903.56,Cash
+1142,6/30/2023,North,Bangalore,Electronics,TV,CUST1860,58,Male,3,2523,0.1,6812.1,2081.94,UPI
+1143,3/20/2023,South,Delhi,Grocery,Oil,CUST1584,56,Female,4,1725,0.06,6486,2195.08,Net Banking
+1144,8/12/2023,North,Chennai,Electronics,Laptop,CUST1517,52,Male,2,2835,0.12,4989.6,625.57,Cash
+1145,7/29/2023,North,Chennai,Clothing,Dress,CUST1655,25,Male,2,2377,0.18,3898.28,1438.97,Cash
+1146,7/3/2023,North,Hyderabad,Electronics,Laptop,CUST1632,29,Male,1,2903,0.22,2264.34,266.32,Net Banking
+1147,10/6/2023,East,Chennai,Electronics,TV,CUST1648,46,Male,5,703,0.19,2847.15,570.12,Net Banking
+1148,6/27/2023,East,Kolkata,Grocery,Oil,CUST1161,28,Female,3,2935,0.01,8716.95,1930.08,Net Banking
+1149,8/30/2023,West,Hyderabad,Electronics,Laptop,CUST1966,40,Female,1,3970,0.09,3612.7,790.54,UPI
+1150,4/23/2023,East,Hyderabad,Grocery,Milk,CUST1043,47,Male,1,2848,0.12,2506.24,971.61,Card
+1151,2/14/2023,West,Bangalore,Furniture,Table,CUST1107,44,Male,1,926,0.08,851.92,133.38,Card
+1152,6/9/2023,North,Delhi,Electronics,Headphones,CUST1905,28,Female,3,4001,0.28,8642.16,1469.98,Card
+1153,12/23/2023,North,Hyderabad,Clothing,Jeans,CUST1656,57,Male,3,4684,0.21,11101.08,1361.02,UPI
+1154,11/16/2023,North,Mumbai,Electronics,Laptop,CUST1082,23,Male,4,4747,0.18,15570.16,3974.32,UPI
+1155,6/26/2023,West,Bangalore,Clothing,Jeans,CUST1880,29,Female,2,2839,0.12,4996.64,1362.53,UPI
+1156,2/18/2023,West,Kolkata,Electronics,Headphones,CUST1675,38,Male,5,3309,0.21,13070.55,4294.16,UPI
+1157,5/7/2023,North,Bangalore,Electronics,Mobile,CUST1233,34,Male,5,1751,0.11,7791.95,3056.38,UPI
+1158,1/11/2023,East,Mumbai,Electronics,Mobile,CUST1328,29,Male,5,2474,0.02,12122.6,3123.56,Card
+1159,5/21/2023,West,Mumbai,Clothing,Dress,CUST1534,36,Male,3,4642,0.09,12672.66,2941.51,Net Banking
+1160,10/17/2023,North,Kolkata,Furniture,Bed,CUST1454,28,Male,2,2376,0.02,4656.96,769.08,Card
+1161,11/9/2023,East,Delhi,Clothing,Shirt,CUST1074,51,Male,5,3056,0.22,11918.4,4018.58,Cash
+1162,3/18/2023,West,Mumbai,Furniture,Bed,CUST1804,34,Female,4,1966,0.14,6763.04,757.9,Card
+1163,3/18/2023,South,Bangalore,Clothing,Jacket,CUST1228,19,Male,5,3087,0.22,12039.3,4526.71,Cash
+1164,1/26/2023,East,Mumbai,Grocery,Oil,CUST1582,56,Female,1,3681,0.03,3570.57,1078.91,Cash
+1165,7/13/2023,East,Delhi,Electronics,TV,CUST1786,21,Female,3,425,0.15,1083.75,413.56,Card
+1166,4/2/2023,West,Hyderabad,Clothing,Shirt,CUST1797,24,Female,2,1449,0.24,2202.48,241.84,UPI
+1167,1/18/2023,East,Kolkata,Grocery,Oil,CUST1009,45,Female,1,3908,0.17,3243.64,808.2,Cash
+1168,2/21/2023,South,Delhi,Clothing,Jacket,CUST1706,35,Female,3,580,0.1,1566,399.15,Cash
+1169,4/3/2023,West,Mumbai,Clothing,Jacket,CUST1931,54,Male,1,898,0.11,799.22,307,Net Banking
+1170,12/8/2023,North,Bangalore,Grocery,Milk,CUST1900,21,Female,2,697,0.18,1143.08,318.91,Card
+1171,3/30/2023,East,Kolkata,Grocery,Oil,CUST1665,56,Female,4,1129,0.21,3567.64,827.57,Cash
+1172,5/29/2023,East,Chennai,Grocery,Snacks,CUST1045,33,Male,4,2308,0.02,9047.36,1227.03,Cash
+1173,10/2/2023,East,Chennai,Electronics,TV,CUST1352,19,Female,4,4608,0.11,16404.48,3761.93,UPI
+1174,4/1/2023,West,Kolkata,Electronics,Mobile,CUST1140,50,Female,4,3373,0.2,10793.6,2988.84,Cash
+1175,11/30/2023,East,Delhi,Clothing,Jacket,CUST1151,20,Female,5,4925,0.07,22901.25,6712.93,UPI
+1176,7/10/2023,West,Delhi,Furniture,Chair,CUST1461,29,Male,3,3490,0.14,9004.2,2547.31,Card
+1177,12/7/2023,West,Hyderabad,Clothing,Jeans,CUST1056,40,Female,4,4672,0.27,13642.24,3630.11,UPI
+1178,7/21/2023,North,Kolkata,Furniture,Chair,CUST1329,23,Female,4,4643,0.24,14114.72,3430.08,Net Banking
+1179,6/4/2023,West,Hyderabad,Electronics,Laptop,CUST1185,54,Male,4,4411,0.23,13585.88,4638.11,Card
+1180,6/2/2023,West,Delhi,Clothing,Jacket,CUST1124,32,Female,1,2537,0.16,2131.08,428.7,Net Banking
+1181,9/10/2023,South,Chennai,Grocery,Oil,CUST1965,52,Female,2,4139,0.22,6456.84,2363.4,Net Banking
+1182,7/23/2023,North,Delhi,Grocery,Milk,CUST1933,28,Female,2,3364,0.25,5046,1758.51,Net Banking
+1183,10/19/2023,North,Bangalore,Clothing,Jacket,CUST1563,48,Male,4,3341,0.22,10423.92,2799.52,UPI
+1184,7/20/2023,South,Kolkata,Grocery,Milk,CUST1127,48,Male,1,3317,0.28,2388.24,905.64,Cash
+1185,9/28/2023,West,Delhi,Clothing,Shirt,CUST1770,48,Female,5,4172,0.12,18356.8,3610.7,Net Banking
+1186,4/26/2023,South,Chennai,Electronics,Headphones,CUST1603,27,Male,3,1179,0.08,3254.04,900.78,Card
+1187,3/23/2023,South,Chennai,Electronics,Mobile,CUST1371,58,Male,1,1685,0.13,1465.95,499.3,UPI
+1188,10/25/2023,North,Delhi,Electronics,Laptop,CUST1132,28,Male,2,1166,0.08,2145.44,651.85,Net Banking
+1189,8/1/2023,East,Delhi,Furniture,Bed,CUST1147,40,Female,1,4485,0.11,3991.65,628.66,Net Banking
+1190,3/23/2023,North,Kolkata,Clothing,Jeans,CUST1640,47,Female,5,4283,0.02,20986.7,2522.77,Cash
+1191,1/24/2023,North,Mumbai,Clothing,Jacket,CUST1955,48,Female,1,3963,0.24,3011.88,982.16,UPI
+1192,1/26/2023,East,Delhi,Furniture,Chair,CUST1705,33,Male,5,1331,0.19,5390.55,1746.75,UPI
+1193,1/29/2023,West,Kolkata,Grocery,Oil,CUST1164,34,Male,1,3668,0.23,2824.36,1114.79,Net Banking
+1194,5/18/2023,West,Bangalore,Furniture,Sofa,CUST1186,59,Male,2,2047,0.2,3275.2,1105.91,UPI
+1195,1/26/2023,North,Delhi,Electronics,Mobile,CUST1370,18,Male,4,4033,0.09,14680.12,3748.02,Cash
+1196,8/19/2023,South,Bangalore,Electronics,Laptop,CUST1966,44,Male,5,205,0.09,932.75,213.26,UPI
+1197,12/6/2023,East,Bangalore,Electronics,TV,CUST1564,36,Female,1,4997,0.26,3697.78,593.33,Card
+1198,4/15/2023,South,Kolkata,Clothing,Jacket,CUST1149,35,Male,4,2015,0.27,5883.8,2179.57,Net Banking
+1199,7/30/2023,East,Bangalore,Clothing,Shirt,CUST1047,24,Female,4,973,0.26,2880.08,793.37,Net Banking
+1200,7/30/2023,East,Delhi,Furniture,Bed,CUST1164,34,Female,5,883,0.23,3399.55,1282.79,Card
